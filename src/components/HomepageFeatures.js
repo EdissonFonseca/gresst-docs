@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'App Móvil de Recolección',
-    Svg: require('@site/static/img/mobile-app.svg').default,
+    Svg: require('@site/static/img/mobile-app.svg'),
     description: (
       <>
         Aplicación móvil para operadores de recolección con funcionalidades de 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Plataforma Web para Gestores',
-    Svg: require('@site/static/img/manager-dashboard.svg').default,
+    Svg: require('@site/static/img/manager-dashboard.svg'),
     description: (
       <>
         Dashboard completo para gestores de residuos con análisis de datos, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Portal para Generadores',
-    Svg: require('@site/static/img/generator-portal.svg').default,
+    Svg: require('@site/static/img/generator-portal.svg'),
     description: (
       <>
         Portal web para empresas generadoras de residuos que necesitan 
