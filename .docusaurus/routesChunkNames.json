@@ -1,264 +1,221 @@
 {
-  "/gresst-docs/__docusaurus/debug-7de": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/gresst-docs/__docusaurus/debug/config-75c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/gresst-docs/__docusaurus/debug/content-158": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---gresst-docs-docusaurus-debug-content-877-707"
-  },
-  "/gresst-docs/__docusaurus/debug/globalData-8cd": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/gresst-docs/__docusaurus/debug/metadata-241": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/gresst-docs/__docusaurus/debug/registry-05e": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/gresst-docs/__docusaurus/debug/routes-b87": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/gresst-docs/blog-35f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---gresst-docs-blog-3-fd-51c"
+    "__props": "3fda58e3"
   },
   "/gresst-docs/blog/archive-373": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---gresst-docs-blog-archive-7-a-1-052"
+    "__props": "7a14bf3e"
   },
   "/gresst-docs/blog/authors-7aa": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---gresst-docs-blog-authors-6-c-4-0a2"
+    "sidebar": "814f3328",
+    "__props": "6c4dd2d8"
   },
   "/gresst-docs/blog/tags-d7d": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---gresst-docs-blog-tagscbf-ea1"
+    "sidebar": "814f3328",
+    "__props": "cbf5feac"
   },
   "/gresst-docs/blog/tags/platform-ee9": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---gresst-docs-blog-tags-platformb-55-653"
+    "__props": "b5515480"
   },
   "/gresst-docs/blog/tags/waste-management-52b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---gresst-docs-blog-tags-waste-managementfba-37f"
+    "__props": "fbaafc98"
   },
   "/gresst-docs/blog/tags/welcome-cf7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---gresst-docs-blog-tags-welcome-490-ef5"
+    "__props": "4908c2ec"
   },
   "/gresst-docs/blog/welcome-25c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomeaf-7-728"
+    "sidebar": "814f3328",
+    "content": "af775ebe"
   },
   "/gresst-docs/search-ee6": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---searchc-14-0ea"
+      "plugin": "c141421f"
     }
   },
   "/gresst-docs/docs-ad2": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/gresst-docs/docs-a36": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---gresst-docs-docs-4-a-1-90c"
+    "__comp": "a7bd4aaa",
+    "__props": "4a1e2807"
   },
   "/gresst-docs/docs-2d1": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/gresst-docs/docs/api/autenticacion-b8c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-autenticacion-548-a20"
+    "__comp": "17896441",
+    "content": "54816c93"
   },
   "/gresst-docs/docs/api/endpoints-92f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-endpointsd-04-b8a"
+    "__comp": "17896441",
+    "content": "d04023df"
   },
   "/gresst-docs/docs/api/intro-907": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-intro-626-312"
+    "__comp": "17896441",
+    "content": "6262e02f"
   },
   "/gresst-docs/docs/api/sdk-a78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-sdkff-4-ec7"
+    "__comp": "17896441",
+    "content": "ff4e0346"
   },
   "/gresst-docs/docs/api/webhooks-77a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-webhooksba-8-d86"
+    "__comp": "17896441",
+    "content": "ba827b61"
   },
   "/gresst-docs/docs/app-movil/funcionalidades-507": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-funcionalidadesf-76-a30"
+    "__comp": "17896441",
+    "content": "f7660bee"
   },
   "/gresst-docs/docs/app-movil/instalacion-643": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-instalacioncae-711"
+    "__comp": "17896441",
+    "content": "cae4e1ce"
   },
   "/gresst-docs/docs/app-movil/intro-965": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-introbfd-777"
+    "__comp": "17896441",
+    "content": "bfd662a2"
   },
   "/gresst-docs/docs/app-movil/recoleccion-5fb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-recoleccion-018-61d"
+    "__comp": "17896441",
+    "content": "0184e347"
   },
   "/gresst-docs/docs/app-movil/tracking-2e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-tracking-22-b-5d1"
+    "__comp": "17896441",
+    "content": "22b2515c"
   },
   "/gresst-docs/docs/guides/faq-82c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-faq-965-052"
+    "__comp": "17896441",
+    "content": "9654b5f5"
   },
   "/gresst-docs/docs/guides/getting-started-d86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-getting-startedc-9-e-20f"
+    "__comp": "17896441",
+    "content": "c9ea0dcf"
   },
   "/gresst-docs/docs/guides/primeros-pasos-55b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-primeros-pasosca-4-57b"
+    "__comp": "17896441",
+    "content": "ca40ee2e"
   },
   "/gresst-docs/docs/guides/troubleshooting-f47": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-troubleshooting-03-b-dc6"
+    "__comp": "17896441",
+    "content": "03be7dae"
   },
   "/gresst-docs/docs/help/centro-ayuda-7a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-centro-ayuda-693-a2d"
+    "__comp": "17896441",
+    "content": "693eed4c"
   },
   "/gresst-docs/docs/help/contacto-6ae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-contacto-454-779"
+    "__comp": "17896441",
+    "content": "454bc7bf"
   },
   "/gresst-docs/docs/help/estado-sistema-4a6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-estado-sistema-2-b-0-507"
+    "__comp": "17896441",
+    "content": "2b0e5942"
   },
   "/gresst-docs/docs/intro-d87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/gresst-docs/docs/web-generadores/facturacion-a10": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-facturacion-546-1ba"
+    "__comp": "17896441",
+    "content": "54661b26"
   },
   "/gresst-docs/docs/web-generadores/intro-ca6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-intro-9-f-0-b9d"
+    "__comp": "17896441",
+    "content": "9f06aa8d"
   },
   "/gresst-docs/docs/web-generadores/seguimiento-ee0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-seguimiento-316-70e"
+    "__comp": "17896441",
+    "content": "31672523"
   },
   "/gresst-docs/docs/web-generadores/solicitar-servicio-ea4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-solicitar-servicio-848-6e8"
+    "__comp": "17896441",
+    "content": "848a75e2"
   },
   "/gresst-docs/docs/web-gestores/dashboard-26a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-dashboard-3-ec-bc9"
+    "__comp": "17896441",
+    "content": "3ec329d5"
   },
   "/gresst-docs/docs/web-gestores/gestion-operaciones-83d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-gestion-operacionesdd-6-e4e"
+    "__comp": "17896441",
+    "content": "dd6e332f"
   },
   "/gresst-docs/docs/web-gestores/intro-bf5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-introac-9-908"
+    "__comp": "17896441",
+    "content": "ac926b5c"
   },
   "/gresst-docs/docs/web-gestores/reportes-12b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-reportes-4-e-2-d22"
+    "__comp": "17896441",
+    "content": "4e2d4130"
   },
   "/gresst-docs/-b51": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

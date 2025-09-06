@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'App Móvil de Recolección',
-    Svg: require('@site/static/img/mobile-app.svg'),
+    emoji: '📱',
     description: (
       <>
         Aplicación móvil para operadores de recolección con funcionalidades de 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Plataforma Web para Gestores',
-    Svg: require('@site/static/img/manager-dashboard.svg'),
+    emoji: '💻',
     description: (
       <>
         Dashboard completo para gestores de residuos con análisis de datos, 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Portal para Generadores',
-    Svg: require('@site/static/img/generator-portal.svg'),
+    emoji: '🏢',
     description: (
       <>
         Portal web para empresas generadoras de residuos que necesitan 
@@ -35,11 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({emoji, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <div className={styles.featureEmoji}>{emoji}</div>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

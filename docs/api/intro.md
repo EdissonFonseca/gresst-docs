@@ -33,30 +33,30 @@ La **API de la Plataforma de Gestión de Residuos** proporciona acceso programá
 ### 🚛 Gestión de Recolecciones
 - **GET /api/v1/collections** - Listar recolecciones
 - **POST /api/v1/collections** - Crear nueva recolección
-- **GET /api/v1/collections/{id}** - Obtener recolección específica
-- **PUT /api/v1/collections/{id}** - Actualizar recolección
-- **DELETE /api/v1/collections/{id}** - Eliminar recolección
+- **GET /api/v1/collections/\{id\}** - Obtener recolección específica
+- **PUT /api/v1/collections/\{id\}** - Actualizar recolección
+- **DELETE /api/v1/collections/\{id\}** - Eliminar recolección
 
 ### 🗺️ Gestión de Rutas
 - **GET /api/v1/routes** - Listar rutas
 - **POST /api/v1/routes** - Crear nueva ruta
-- **GET /api/v1/routes/{id}** - Obtener ruta específica
-- **PUT /api/v1/routes/{id}** - Actualizar ruta
-- **POST /api/v1/routes/{id}/optimize** - Optimizar ruta
+- **GET /api/v1/routes/\{id\}** - Obtener ruta específica
+- **PUT /api/v1/routes/\{id\}** - Actualizar ruta
+- **POST /api/v1/routes/\{id\}/optimize** - Optimizar ruta
 
 ### 👥 Gestión de Clientes
 - **GET /api/v1/customers** - Listar clientes
 - **POST /api/v1/customers** - Crear nuevo cliente
-- **GET /api/v1/customers/{id}** - Obtener cliente específico
-- **PUT /api/v1/customers/{id}** - Actualizar cliente
-- **DELETE /api/v1/customers/{id}** - Eliminar cliente
+- **GET /api/v1/customers/\{id\}** - Obtener cliente específico
+- **PUT /api/v1/customers/\{id\}** - Actualizar cliente
+- **DELETE /api/v1/customers/\{id\}** - Eliminar cliente
 
 ### 🚛 Gestión de Flota
 - **GET /api/v1/vehicles** - Listar vehículos
 - **POST /api/v1/vehicles** - Crear nuevo vehículo
-- **GET /api/v1/vehicles/{id}** - Obtener vehículo específico
-- **PUT /api/v1/vehicles/{id}** - Actualizar vehículo
-- **GET /api/v1/vehicles/{id}/location** - Obtener ubicación actual
+- **GET /api/v1/vehicles/\{id\}** - Obtener vehículo específico
+- **PUT /api/v1/vehicles/\{id\}** - Actualizar vehículo
+- **GET /api/v1/vehicles/\{id\}/location** - Obtener ubicación actual
 
 ## Autenticación
 

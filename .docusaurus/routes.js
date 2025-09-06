@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/gresst-docs/__docusaurus/debug',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug', '7de'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/config', '75c'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/content', '158'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/globalData', '8cd'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/metadata', '241'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/registry', '05e'),
-    exact: true
-  },
-  {
-    path: '/gresst-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/gresst-docs/__docusaurus/debug/routes', 'b87'),
-    exact: true
-  },
-  {
     path: '/gresst-docs/blog',
     component: ComponentCreator('/gresst-docs/blog', '35f'),
     exact: true

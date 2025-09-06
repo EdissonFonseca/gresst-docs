@@ -10,12 +10,8 @@
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
-}
-
-.featureImage {
-  height: 200px;
-  width: 200px;
+.featureEmoji {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  display: block;
 }
