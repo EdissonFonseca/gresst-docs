@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/primeros-pasos.md",
   "sourceDirName": "guides",
   "slug": "/guides/primeros-pasos",
-  "permalink": "/waste-management-platform-docs/docs/guides/primeros-pasos",
+  "permalink": "/gresst-docs/docs/guides/primeros-pasos",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/primeros-pasos.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Guía de Inicio Rápido",
-    "permalink": "/waste-management-platform-docs/docs/guides/getting-started"
+    "permalink": "/gresst-docs/docs/guides/getting-started"
   },
   "next": {
     "title": "Solución de Problemas",
-    "permalink": "/waste-management-platform-docs/docs/guides/troubleshooting"
+    "permalink": "/gresst-docs/docs/guides/troubleshooting"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/api/intro.md",
   "sourceDirName": "api",
   "slug": "/api/intro",
-  "permalink": "/waste-management-platform-docs/docs/api/intro",
+  "permalink": "/gresst-docs/docs/api/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/intro.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Facturación y Pagos",
-    "permalink": "/waste-management-platform-docs/docs/web-generadores/facturacion"
+    "permalink": "/gresst-docs/docs/web-generadores/facturacion"
   },
   "next": {
     "title": "Autenticación",
-    "permalink": "/waste-management-platform-docs/docs/api/autenticacion"
+    "permalink": "/gresst-docs/docs/api/autenticacion"
   }
 }

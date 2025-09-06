@@ -5,7 +5,7 @@
   "source": "@site/docs/api/sdk.md",
   "sourceDirName": "api",
   "slug": "/api/sdk",
-  "permalink": "/waste-management-platform-docs/docs/api/sdk",
+  "permalink": "/gresst-docs/docs/api/sdk",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/sdk.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Webhooks",
-    "permalink": "/waste-management-platform-docs/docs/api/webhooks"
+    "permalink": "/gresst-docs/docs/api/webhooks"
   },
   "next": {
     "title": "Guía de Inicio Rápido",
-    "permalink": "/waste-management-platform-docs/docs/guides/getting-started"
+    "permalink": "/gresst-docs/docs/guides/getting-started"
   }
 }

@@ -1,48 +1,48 @@
 {
-  "/waste-management-platform-docs/__docusaurus/debug-c03": {
+  "/gresst-docs/__docusaurus/debug-7de": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/__docusaurus/debug/config-fac": {
+  "/gresst-docs/__docusaurus/debug/config-75c": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/__docusaurus/debug/content-f03": {
+  "/gresst-docs/__docusaurus/debug/content-158": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---waste-management-platform-docs-docusaurus-debug-content-563-59c"
+    "__props": "__props---gresst-docs-docusaurus-debug-content-877-707"
   },
-  "/waste-management-platform-docs/__docusaurus/debug/globalData-d48": {
+  "/gresst-docs/__docusaurus/debug/globalData-8cd": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/__docusaurus/debug/metadata-d5a": {
+  "/gresst-docs/__docusaurus/debug/metadata-241": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/__docusaurus/debug/registry-1ca": {
+  "/gresst-docs/__docusaurus/debug/registry-05e": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/__docusaurus/debug/routes-e29": {
+  "/gresst-docs/__docusaurus/debug/routes-b87": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/waste-management-platform-docs/blog-dbb": {
+  "/gresst-docs/blog-35f": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -53,16 +53,16 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---waste-management-platform-docs-bloga-5-b-e38"
+    "__props": "__props---gresst-docs-blog-3-fd-51c"
   },
-  "/waste-management-platform-docs/blog/archive-850": {
+  "/gresst-docs/blog/archive-373": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
-    "__props": "__props---waste-management-platform-docs-blog-archivea-05-4e3"
+    "__props": "__props---gresst-docs-blog-archive-7-a-1-052"
   },
-  "/waste-management-platform-docs/blog/authors-9e8": {
+  "/gresst-docs/blog/authors-7aa": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -71,17 +71,17 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---waste-management-platform-docs-blog-authors-9-b-4-ad4"
+    "__props": "__props---gresst-docs-blog-authors-6-c-4-0a2"
   },
-  "/waste-management-platform-docs/blog/tags-628": {
+  "/gresst-docs/blog/tags-d7d": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---waste-management-platform-docs-blog-tags-2-f-0-f1b"
+    "__props": "__props---gresst-docs-blog-tagscbf-ea1"
   },
-  "/waste-management-platform-docs/blog/tags/platform-d4b": {
+  "/gresst-docs/blog/tags/platform-ee9": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -92,9 +92,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---waste-management-platform-docs-blog-tags-platformfc-4-238"
+    "__props": "__props---gresst-docs-blog-tags-platformb-55-653"
   },
-  "/waste-management-platform-docs/blog/tags/waste-management-6bc": {
+  "/gresst-docs/blog/tags/waste-management-52b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -105,9 +105,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---waste-management-platform-docs-blog-tags-waste-managementd-0-b-ffe"
+    "__props": "__props---gresst-docs-blog-tags-waste-managementfba-37f"
   },
-  "/waste-management-platform-docs/blog/tags/welcome-6d1": {
+  "/gresst-docs/blog/tags/welcome-cf7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -118,9 +118,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---waste-management-platform-docs-blog-tags-welcomee-99-366"
+    "__props": "__props---gresst-docs-blog-tags-welcome-490-ef5"
   },
-  "/waste-management-platform-docs/blog/welcome-4a0": {
+  "/gresst-docs/blog/welcome-25c": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -131,130 +131,130 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomeaf-7-728"
   },
-  "/waste-management-platform-docs/search-cad": {
+  "/gresst-docs/search-ee6": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
       "plugin": "plugin---searchc-14-0ea"
     }
   },
-  "/waste-management-platform-docs/docs-be0": {
+  "/gresst-docs/docs-ad2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/waste-management-platform-docs/docs-b66": {
+  "/gresst-docs/docs-a36": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---waste-management-platform-docs-docs-553-7cf"
+    "__props": "__props---gresst-docs-docs-4-a-1-90c"
   },
-  "/waste-management-platform-docs/docs-461": {
+  "/gresst-docs/docs-2d1": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/waste-management-platform-docs/docs/api/autenticacion-a11": {
+  "/gresst-docs/docs/api/autenticacion-b8c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-autenticacion-548-a20"
   },
-  "/waste-management-platform-docs/docs/api/endpoints-0e7": {
+  "/gresst-docs/docs/api/endpoints-92f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-endpointsd-04-b8a"
   },
-  "/waste-management-platform-docs/docs/api/intro-2dc": {
+  "/gresst-docs/docs/api/intro-907": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-intro-626-312"
   },
-  "/waste-management-platform-docs/docs/api/sdk-996": {
+  "/gresst-docs/docs/api/sdk-a78": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-sdkff-4-ec7"
   },
-  "/waste-management-platform-docs/docs/api/webhooks-8b2": {
+  "/gresst-docs/docs/api/webhooks-77a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-webhooksba-8-d86"
   },
-  "/waste-management-platform-docs/docs/app-movil/funcionalidades-ad9": {
+  "/gresst-docs/docs/app-movil/funcionalidades-507": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-funcionalidadesf-76-a30"
   },
-  "/waste-management-platform-docs/docs/app-movil/instalacion-841": {
+  "/gresst-docs/docs/app-movil/instalacion-643": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-instalacioncae-711"
   },
-  "/waste-management-platform-docs/docs/app-movil/intro-9e6": {
+  "/gresst-docs/docs/app-movil/intro-965": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-introbfd-777"
   },
-  "/waste-management-platform-docs/docs/app-movil/recoleccion-6fa": {
+  "/gresst-docs/docs/app-movil/recoleccion-5fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-recoleccion-018-61d"
   },
-  "/waste-management-platform-docs/docs/app-movil/tracking-af9": {
+  "/gresst-docs/docs/app-movil/tracking-2e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-tracking-22-b-5d1"
   },
-  "/waste-management-platform-docs/docs/guides/faq-889": {
+  "/gresst-docs/docs/guides/faq-82c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-faq-965-052"
   },
-  "/waste-management-platform-docs/docs/guides/getting-started-75b": {
+  "/gresst-docs/docs/guides/getting-started-d86": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-getting-startedc-9-e-20f"
   },
-  "/waste-management-platform-docs/docs/guides/primeros-pasos-f0a": {
+  "/gresst-docs/docs/guides/primeros-pasos-55b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-primeros-pasosca-4-57b"
   },
-  "/waste-management-platform-docs/docs/guides/troubleshooting-6a7": {
+  "/gresst-docs/docs/guides/troubleshooting-f47": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-troubleshooting-03-b-dc6"
   },
-  "/waste-management-platform-docs/docs/help/centro-ayuda-aed": {
+  "/gresst-docs/docs/help/centro-ayuda-7a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-centro-ayuda-693-a2d"
   },
-  "/waste-management-platform-docs/docs/help/contacto-49b": {
+  "/gresst-docs/docs/help/contacto-6ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-contacto-454-779"
   },
-  "/waste-management-platform-docs/docs/help/estado-sistema-86c": {
+  "/gresst-docs/docs/help/estado-sistema-4a6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-estado-sistema-2-b-0-507"
   },
-  "/waste-management-platform-docs/docs/intro-935": {
+  "/gresst-docs/docs/intro-d87": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/waste-management-platform-docs/docs/web-generadores/facturacion-1c9": {
+  "/gresst-docs/docs/web-generadores/facturacion-a10": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-facturacion-546-1ba"
   },
-  "/waste-management-platform-docs/docs/web-generadores/intro-0ab": {
+  "/gresst-docs/docs/web-generadores/intro-ca6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-intro-9-f-0-b9d"
   },
-  "/waste-management-platform-docs/docs/web-generadores/seguimiento-f55": {
+  "/gresst-docs/docs/web-generadores/seguimiento-ee0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-seguimiento-316-70e"
   },
-  "/waste-management-platform-docs/docs/web-generadores/solicitar-servicio-836": {
+  "/gresst-docs/docs/web-generadores/solicitar-servicio-ea4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-solicitar-servicio-848-6e8"
   },
-  "/waste-management-platform-docs/docs/web-gestores/dashboard-fc5": {
+  "/gresst-docs/docs/web-gestores/dashboard-26a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-dashboard-3-ec-bc9"
   },
-  "/waste-management-platform-docs/docs/web-gestores/gestion-operaciones-adf": {
+  "/gresst-docs/docs/web-gestores/gestion-operaciones-83d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-gestion-operacionesdd-6-e4e"
   },
-  "/waste-management-platform-docs/docs/web-gestores/intro-8ee": {
+  "/gresst-docs/docs/web-gestores/intro-bf5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-introac-9-908"
   },
-  "/waste-management-platform-docs/docs/web-gestores/reportes-33a": {
+  "/gresst-docs/docs/web-gestores/reportes-12b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-reportes-4-e-2-d22"
   },
-  "/waste-management-platform-docs/-2e0": {
+  "/gresst-docs/-b51": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
       "plugin": "plugin---a-74-9d6"

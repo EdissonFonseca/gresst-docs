@@ -3,250 +3,250 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug', 'c03'),
+    path: '/gresst-docs/__docusaurus/debug',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug', '7de'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/config', 'fac'),
+    path: '/gresst-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/config', '75c'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/content', 'f03'),
+    path: '/gresst-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/content', '158'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/globalData', 'd48'),
+    path: '/gresst-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/globalData', '8cd'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/metadata', 'd5a'),
+    path: '/gresst-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/metadata', '241'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/registry', '1ca'),
+    path: '/gresst-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/registry', '05e'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/routes', 'e29'),
+    path: '/gresst-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/gresst-docs/__docusaurus/debug/routes', 'b87'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog',
-    component: ComponentCreator('/waste-management-platform-docs/blog', 'dbb'),
+    path: '/gresst-docs/blog',
+    component: ComponentCreator('/gresst-docs/blog', '35f'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/archive',
-    component: ComponentCreator('/waste-management-platform-docs/blog/archive', '850'),
+    path: '/gresst-docs/blog/archive',
+    component: ComponentCreator('/gresst-docs/blog/archive', '373'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/authors',
-    component: ComponentCreator('/waste-management-platform-docs/blog/authors', '9e8'),
+    path: '/gresst-docs/blog/authors',
+    component: ComponentCreator('/gresst-docs/blog/authors', '7aa'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/tags',
-    component: ComponentCreator('/waste-management-platform-docs/blog/tags', '628'),
+    path: '/gresst-docs/blog/tags',
+    component: ComponentCreator('/gresst-docs/blog/tags', 'd7d'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/tags/platform',
-    component: ComponentCreator('/waste-management-platform-docs/blog/tags/platform', 'd4b'),
+    path: '/gresst-docs/blog/tags/platform',
+    component: ComponentCreator('/gresst-docs/blog/tags/platform', 'ee9'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/tags/waste-management',
-    component: ComponentCreator('/waste-management-platform-docs/blog/tags/waste-management', '6bc'),
+    path: '/gresst-docs/blog/tags/waste-management',
+    component: ComponentCreator('/gresst-docs/blog/tags/waste-management', '52b'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/tags/welcome',
-    component: ComponentCreator('/waste-management-platform-docs/blog/tags/welcome', '6d1'),
+    path: '/gresst-docs/blog/tags/welcome',
+    component: ComponentCreator('/gresst-docs/blog/tags/welcome', 'cf7'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/blog/welcome',
-    component: ComponentCreator('/waste-management-platform-docs/blog/welcome', '4a0'),
+    path: '/gresst-docs/blog/welcome',
+    component: ComponentCreator('/gresst-docs/blog/welcome', '25c'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/search',
-    component: ComponentCreator('/waste-management-platform-docs/search', 'cad'),
+    path: '/gresst-docs/search',
+    component: ComponentCreator('/gresst-docs/search', 'ee6'),
     exact: true
   },
   {
-    path: '/waste-management-platform-docs/docs',
-    component: ComponentCreator('/waste-management-platform-docs/docs', 'be0'),
+    path: '/gresst-docs/docs',
+    component: ComponentCreator('/gresst-docs/docs', 'ad2'),
     routes: [
       {
-        path: '/waste-management-platform-docs/docs',
-        component: ComponentCreator('/waste-management-platform-docs/docs', 'b66'),
+        path: '/gresst-docs/docs',
+        component: ComponentCreator('/gresst-docs/docs', 'a36'),
         routes: [
           {
-            path: '/waste-management-platform-docs/docs',
-            component: ComponentCreator('/waste-management-platform-docs/docs', '461'),
+            path: '/gresst-docs/docs',
+            component: ComponentCreator('/gresst-docs/docs', '2d1'),
             routes: [
               {
-                path: '/waste-management-platform-docs/docs/api/autenticacion',
-                component: ComponentCreator('/waste-management-platform-docs/docs/api/autenticacion', 'a11'),
+                path: '/gresst-docs/docs/api/autenticacion',
+                component: ComponentCreator('/gresst-docs/docs/api/autenticacion', 'b8c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/api/endpoints',
-                component: ComponentCreator('/waste-management-platform-docs/docs/api/endpoints', '0e7'),
+                path: '/gresst-docs/docs/api/endpoints',
+                component: ComponentCreator('/gresst-docs/docs/api/endpoints', '92f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/api/intro',
-                component: ComponentCreator('/waste-management-platform-docs/docs/api/intro', '2dc'),
+                path: '/gresst-docs/docs/api/intro',
+                component: ComponentCreator('/gresst-docs/docs/api/intro', '907'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/api/sdk',
-                component: ComponentCreator('/waste-management-platform-docs/docs/api/sdk', '996'),
+                path: '/gresst-docs/docs/api/sdk',
+                component: ComponentCreator('/gresst-docs/docs/api/sdk', 'a78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/api/webhooks',
-                component: ComponentCreator('/waste-management-platform-docs/docs/api/webhooks', '8b2'),
+                path: '/gresst-docs/docs/api/webhooks',
+                component: ComponentCreator('/gresst-docs/docs/api/webhooks', '77a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/app-movil/funcionalidades',
-                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/funcionalidades', 'ad9'),
+                path: '/gresst-docs/docs/app-movil/funcionalidades',
+                component: ComponentCreator('/gresst-docs/docs/app-movil/funcionalidades', '507'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/app-movil/instalacion',
-                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/instalacion', '841'),
+                path: '/gresst-docs/docs/app-movil/instalacion',
+                component: ComponentCreator('/gresst-docs/docs/app-movil/instalacion', '643'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/app-movil/intro',
-                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/intro', '9e6'),
+                path: '/gresst-docs/docs/app-movil/intro',
+                component: ComponentCreator('/gresst-docs/docs/app-movil/intro', '965'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/app-movil/recoleccion',
-                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/recoleccion', '6fa'),
+                path: '/gresst-docs/docs/app-movil/recoleccion',
+                component: ComponentCreator('/gresst-docs/docs/app-movil/recoleccion', '5fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/app-movil/tracking',
-                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/tracking', 'af9'),
+                path: '/gresst-docs/docs/app-movil/tracking',
+                component: ComponentCreator('/gresst-docs/docs/app-movil/tracking', '2e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/guides/faq',
-                component: ComponentCreator('/waste-management-platform-docs/docs/guides/faq', '889'),
+                path: '/gresst-docs/docs/guides/faq',
+                component: ComponentCreator('/gresst-docs/docs/guides/faq', '82c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/guides/getting-started',
-                component: ComponentCreator('/waste-management-platform-docs/docs/guides/getting-started', '75b'),
+                path: '/gresst-docs/docs/guides/getting-started',
+                component: ComponentCreator('/gresst-docs/docs/guides/getting-started', 'd86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/guides/primeros-pasos',
-                component: ComponentCreator('/waste-management-platform-docs/docs/guides/primeros-pasos', 'f0a'),
+                path: '/gresst-docs/docs/guides/primeros-pasos',
+                component: ComponentCreator('/gresst-docs/docs/guides/primeros-pasos', '55b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/guides/troubleshooting',
-                component: ComponentCreator('/waste-management-platform-docs/docs/guides/troubleshooting', '6a7'),
+                path: '/gresst-docs/docs/guides/troubleshooting',
+                component: ComponentCreator('/gresst-docs/docs/guides/troubleshooting', 'f47'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/help/centro-ayuda',
-                component: ComponentCreator('/waste-management-platform-docs/docs/help/centro-ayuda', 'aed'),
+                path: '/gresst-docs/docs/help/centro-ayuda',
+                component: ComponentCreator('/gresst-docs/docs/help/centro-ayuda', '7a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/help/contacto',
-                component: ComponentCreator('/waste-management-platform-docs/docs/help/contacto', '49b'),
+                path: '/gresst-docs/docs/help/contacto',
+                component: ComponentCreator('/gresst-docs/docs/help/contacto', '6ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/help/estado-sistema',
-                component: ComponentCreator('/waste-management-platform-docs/docs/help/estado-sistema', '86c'),
+                path: '/gresst-docs/docs/help/estado-sistema',
+                component: ComponentCreator('/gresst-docs/docs/help/estado-sistema', '4a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/intro',
-                component: ComponentCreator('/waste-management-platform-docs/docs/intro', '935'),
+                path: '/gresst-docs/docs/intro',
+                component: ComponentCreator('/gresst-docs/docs/intro', 'd87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-generadores/facturacion',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/facturacion', '1c9'),
+                path: '/gresst-docs/docs/web-generadores/facturacion',
+                component: ComponentCreator('/gresst-docs/docs/web-generadores/facturacion', 'a10'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-generadores/intro',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/intro', '0ab'),
+                path: '/gresst-docs/docs/web-generadores/intro',
+                component: ComponentCreator('/gresst-docs/docs/web-generadores/intro', 'ca6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-generadores/seguimiento',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/seguimiento', 'f55'),
+                path: '/gresst-docs/docs/web-generadores/seguimiento',
+                component: ComponentCreator('/gresst-docs/docs/web-generadores/seguimiento', 'ee0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-generadores/solicitar-servicio',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/solicitar-servicio', '836'),
+                path: '/gresst-docs/docs/web-generadores/solicitar-servicio',
+                component: ComponentCreator('/gresst-docs/docs/web-generadores/solicitar-servicio', 'ea4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-gestores/dashboard',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/dashboard', 'fc5'),
+                path: '/gresst-docs/docs/web-gestores/dashboard',
+                component: ComponentCreator('/gresst-docs/docs/web-gestores/dashboard', '26a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-gestores/gestion-operaciones',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/gestion-operaciones', 'adf'),
+                path: '/gresst-docs/docs/web-gestores/gestion-operaciones',
+                component: ComponentCreator('/gresst-docs/docs/web-gestores/gestion-operaciones', '83d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-gestores/intro',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/intro', '8ee'),
+                path: '/gresst-docs/docs/web-gestores/intro',
+                component: ComponentCreator('/gresst-docs/docs/web-gestores/intro', 'bf5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/waste-management-platform-docs/docs/web-gestores/reportes',
-                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/reportes', '33a'),
+                path: '/gresst-docs/docs/web-gestores/reportes',
+                component: ComponentCreator('/gresst-docs/docs/web-gestores/reportes', '12b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -257,8 +257,8 @@ export default [
     ]
   },
   {
-    path: '/waste-management-platform-docs/',
-    component: ComponentCreator('/waste-management-platform-docs/', '2e0'),
+    path: '/gresst-docs/',
+    component: ComponentCreator('/gresst-docs/', 'b51'),
     exact: true
   },
   {

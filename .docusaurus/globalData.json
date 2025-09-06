@@ -1,143 +1,143 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/waste-management-platform-docs/docs",
+      "path": "/gresst-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/waste-management-platform-docs/docs",
+          "path": "/gresst-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "api/autenticacion",
-              "path": "/waste-management-platform-docs/docs/api/autenticacion",
+              "path": "/gresst-docs/docs/api/autenticacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/endpoints",
-              "path": "/waste-management-platform-docs/docs/api/endpoints",
+              "path": "/gresst-docs/docs/api/endpoints",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/intro",
-              "path": "/waste-management-platform-docs/docs/api/intro",
+              "path": "/gresst-docs/docs/api/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/sdk",
-              "path": "/waste-management-platform-docs/docs/api/sdk",
+              "path": "/gresst-docs/docs/api/sdk",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/webhooks",
-              "path": "/waste-management-platform-docs/docs/api/webhooks",
+              "path": "/gresst-docs/docs/api/webhooks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/funcionalidades",
-              "path": "/waste-management-platform-docs/docs/app-movil/funcionalidades",
+              "path": "/gresst-docs/docs/app-movil/funcionalidades",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/instalacion",
-              "path": "/waste-management-platform-docs/docs/app-movil/instalacion",
+              "path": "/gresst-docs/docs/app-movil/instalacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/intro",
-              "path": "/waste-management-platform-docs/docs/app-movil/intro",
+              "path": "/gresst-docs/docs/app-movil/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/recoleccion",
-              "path": "/waste-management-platform-docs/docs/app-movil/recoleccion",
+              "path": "/gresst-docs/docs/app-movil/recoleccion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/tracking",
-              "path": "/waste-management-platform-docs/docs/app-movil/tracking",
+              "path": "/gresst-docs/docs/app-movil/tracking",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/faq",
-              "path": "/waste-management-platform-docs/docs/guides/faq",
+              "path": "/gresst-docs/docs/guides/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/getting-started",
-              "path": "/waste-management-platform-docs/docs/guides/getting-started",
+              "path": "/gresst-docs/docs/guides/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/primeros-pasos",
-              "path": "/waste-management-platform-docs/docs/guides/primeros-pasos",
+              "path": "/gresst-docs/docs/guides/primeros-pasos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/troubleshooting",
-              "path": "/waste-management-platform-docs/docs/guides/troubleshooting",
+              "path": "/gresst-docs/docs/guides/troubleshooting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/centro-ayuda",
-              "path": "/waste-management-platform-docs/docs/help/centro-ayuda",
+              "path": "/gresst-docs/docs/help/centro-ayuda",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/contacto",
-              "path": "/waste-management-platform-docs/docs/help/contacto",
+              "path": "/gresst-docs/docs/help/contacto",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/estado-sistema",
-              "path": "/waste-management-platform-docs/docs/help/estado-sistema",
+              "path": "/gresst-docs/docs/help/estado-sistema",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/waste-management-platform-docs/docs/intro",
+              "path": "/gresst-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/facturacion",
-              "path": "/waste-management-platform-docs/docs/web-generadores/facturacion",
+              "path": "/gresst-docs/docs/web-generadores/facturacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/intro",
-              "path": "/waste-management-platform-docs/docs/web-generadores/intro",
+              "path": "/gresst-docs/docs/web-generadores/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/seguimiento",
-              "path": "/waste-management-platform-docs/docs/web-generadores/seguimiento",
+              "path": "/gresst-docs/docs/web-generadores/seguimiento",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/solicitar-servicio",
-              "path": "/waste-management-platform-docs/docs/web-generadores/solicitar-servicio",
+              "path": "/gresst-docs/docs/web-generadores/solicitar-servicio",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/dashboard",
-              "path": "/waste-management-platform-docs/docs/web-gestores/dashboard",
+              "path": "/gresst-docs/docs/web-gestores/dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/gestion-operaciones",
-              "path": "/waste-management-platform-docs/docs/web-gestores/gestion-operaciones",
+              "path": "/gresst-docs/docs/web-gestores/gestion-operaciones",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/intro",
-              "path": "/waste-management-platform-docs/docs/web-gestores/intro",
+              "path": "/gresst-docs/docs/web-gestores/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/reportes",
-              "path": "/waste-management-platform-docs/docs/web-gestores/reportes",
+              "path": "/gresst-docs/docs/web-gestores/reportes",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -145,7 +145,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/waste-management-platform-docs/docs/intro",
+                "path": "/gresst-docs/docs/intro",
                 "label": "intro"
               }
             }

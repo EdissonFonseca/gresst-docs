@@ -5,7 +5,7 @@
   "source": "@site/docs/web-generadores/facturacion.md",
   "sourceDirName": "web-generadores",
   "slug": "/web-generadores/facturacion",
-  "permalink": "/waste-management-platform-docs/docs/web-generadores/facturacion",
+  "permalink": "/gresst-docs/docs/web-generadores/facturacion",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/facturacion.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Seguimiento de Servicios",
-    "permalink": "/waste-management-platform-docs/docs/web-generadores/seguimiento"
+    "permalink": "/gresst-docs/docs/web-generadores/seguimiento"
   },
   "next": {
     "title": "API y Integraciones",
-    "permalink": "/waste-management-platform-docs/docs/api/intro"
+    "permalink": "/gresst-docs/docs/api/intro"
   }
 }

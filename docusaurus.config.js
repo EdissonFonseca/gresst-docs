@@ -7,13 +7,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://TU_USUARIO.github.io',
+  url: 'https://EdissonFonseca.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/waste-management-platform-docs/',
+  baseUrl: '/gresst-docs/',
 
   // GitHub pages deployment config.
-  organizationName: 'TU_USUARIO',
-  projectName: 'waste-management-platform-docs',
+  organizationName: 'EdissonFonseca',
+  projectName: 'gresst-docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

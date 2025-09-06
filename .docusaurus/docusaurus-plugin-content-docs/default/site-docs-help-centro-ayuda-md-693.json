@@ -5,7 +5,7 @@
   "source": "@site/docs/help/centro-ayuda.md",
   "sourceDirName": "help",
   "slug": "/help/centro-ayuda",
-  "permalink": "/waste-management-platform-docs/docs/help/centro-ayuda",
+  "permalink": "/gresst-docs/docs/help/centro-ayuda",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/help/centro-ayuda.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Preguntas Frecuentes (FAQ)",
-    "permalink": "/waste-management-platform-docs/docs/guides/faq"
+    "permalink": "/gresst-docs/docs/guides/faq"
   },
   "next": {
     "title": "Contacto",
-    "permalink": "/waste-management-platform-docs/docs/help/contacto"
+    "permalink": "/gresst-docs/docs/help/contacto"
   }
 }
