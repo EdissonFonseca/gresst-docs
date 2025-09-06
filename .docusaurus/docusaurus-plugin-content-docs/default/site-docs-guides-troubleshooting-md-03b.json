@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/troubleshooting.md",
   "sourceDirName": "guides",
   "slug": "/guides/troubleshooting",
-  "permalink": "/gresst-docs/docs/guides/troubleshooting",
+  "permalink": "/docs/guides/troubleshooting",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/troubleshooting.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Primeros Pasos",
-    "permalink": "/gresst-docs/docs/guides/primeros-pasos"
+    "permalink": "/docs/guides/primeros-pasos"
   },
   "next": {
     "title": "Preguntas Frecuentes (FAQ)",
-    "permalink": "/gresst-docs/docs/guides/faq"
+    "permalink": "/docs/guides/faq"
   }
 }

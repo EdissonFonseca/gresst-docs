@@ -5,7 +5,7 @@
   "source": "@site/docs/web-generadores/solicitar-servicio.md",
   "sourceDirName": "web-generadores",
   "slug": "/web-generadores/solicitar-servicio",
-  "permalink": "/gresst-docs/docs/web-generadores/solicitar-servicio",
+  "permalink": "/docs/web-generadores/solicitar-servicio",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/solicitar-servicio.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Portal Web para Generadores de Residuos",
-    "permalink": "/gresst-docs/docs/web-generadores/intro"
+    "permalink": "/docs/web-generadores/intro"
   },
   "next": {
     "title": "Seguimiento de Servicios",
-    "permalink": "/gresst-docs/docs/web-generadores/seguimiento"
+    "permalink": "/docs/web-generadores/seguimiento"
   }
 }

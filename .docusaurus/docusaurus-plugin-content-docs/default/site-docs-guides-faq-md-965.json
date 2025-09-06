@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/faq.md",
   "sourceDirName": "guides",
   "slug": "/guides/faq",
-  "permalink": "/gresst-docs/docs/guides/faq",
+  "permalink": "/docs/guides/faq",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/faq.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Solución de Problemas",
-    "permalink": "/gresst-docs/docs/guides/troubleshooting"
+    "permalink": "/docs/guides/troubleshooting"
   },
   "next": {
     "title": "Centro de Ayuda",
-    "permalink": "/gresst-docs/docs/help/centro-ayuda"
+    "permalink": "/docs/help/centro-ayuda"
   }
 }

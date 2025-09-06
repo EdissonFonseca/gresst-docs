@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/gresst-docs/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/gresst-docs/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

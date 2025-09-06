@@ -5,7 +5,7 @@
   "source": "@site/docs/app-movil/tracking.md",
   "sourceDirName": "app-movil",
   "slug": "/app-movil/tracking",
-  "permalink": "/gresst-docs/docs/app-movil/tracking",
+  "permalink": "/docs/app-movil/tracking",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/tracking.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Gestión de Recolección",
-    "permalink": "/gresst-docs/docs/app-movil/recoleccion"
+    "permalink": "/docs/app-movil/recoleccion"
   },
   "next": {
     "title": "Plataforma Web para Gestores de Residuos",
-    "permalink": "/gresst-docs/docs/web-gestores/intro"
+    "permalink": "/docs/web-gestores/intro"
   }
 }

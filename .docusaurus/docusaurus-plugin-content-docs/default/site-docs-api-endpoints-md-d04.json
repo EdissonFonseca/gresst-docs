@@ -5,7 +5,7 @@
   "source": "@site/docs/api/endpoints.md",
   "sourceDirName": "api",
   "slug": "/api/endpoints",
-  "permalink": "/gresst-docs/docs/api/endpoints",
+  "permalink": "/docs/api/endpoints",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/endpoints.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Autenticación",
-    "permalink": "/gresst-docs/docs/api/autenticacion"
+    "permalink": "/docs/api/autenticacion"
   },
   "next": {
     "title": "Webhooks",
-    "permalink": "/gresst-docs/docs/api/webhooks"
+    "permalink": "/docs/api/webhooks"
   }
 }

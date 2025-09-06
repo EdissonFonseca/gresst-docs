@@ -5,7 +5,7 @@
   "source": "@site/docs/api/webhooks.md",
   "sourceDirName": "api",
   "slug": "/api/webhooks",
-  "permalink": "/gresst-docs/docs/api/webhooks",
+  "permalink": "/docs/api/webhooks",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/webhooks.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Endpoints de la API",
-    "permalink": "/gresst-docs/docs/api/endpoints"
+    "permalink": "/docs/api/endpoints"
   },
   "next": {
     "title": "SDK",
-    "permalink": "/gresst-docs/docs/api/sdk"
+    "permalink": "/docs/api/sdk"
   }
 }

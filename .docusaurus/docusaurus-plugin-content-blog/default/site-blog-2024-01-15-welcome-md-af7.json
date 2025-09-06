@@ -1,5 +1,5 @@
 {
-  "permalink": "/gresst-docs/blog/welcome",
+  "permalink": "/blog/welcome",
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/blog/2024-01-15-welcome.md",
   "source": "@site/blog/2024-01-15-welcome.md",
   "title": "Bienvenido a la Plataforma de Gestión de Residuos",
@@ -9,17 +9,17 @@
     {
       "inline": true,
       "label": "welcome",
-      "permalink": "/gresst-docs/blog/tags/welcome"
+      "permalink": "/blog/tags/welcome"
     },
     {
       "inline": true,
       "label": "platform",
-      "permalink": "/gresst-docs/blog/tags/platform"
+      "permalink": "/blog/tags/platform"
     },
     {
       "inline": true,
       "label": "waste-management",
-      "permalink": "/gresst-docs/blog/tags/waste-management"
+      "permalink": "/blog/tags/waste-management"
     }
   ],
   "readingTime": 1.62,

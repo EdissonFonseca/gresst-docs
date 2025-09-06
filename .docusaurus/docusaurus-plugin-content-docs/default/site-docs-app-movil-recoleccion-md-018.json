@@ -5,7 +5,7 @@
   "source": "@site/docs/app-movil/recoleccion.md",
   "sourceDirName": "app-movil",
   "slug": "/app-movil/recoleccion",
-  "permalink": "/gresst-docs/docs/app-movil/recoleccion",
+  "permalink": "/docs/app-movil/recoleccion",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/recoleccion.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Funcionalidades de la App Móvil",
-    "permalink": "/gresst-docs/docs/app-movil/funcionalidades"
+    "permalink": "/docs/app-movil/funcionalidades"
   },
   "next": {
     "title": "Seguimiento y Tracking",
-    "permalink": "/gresst-docs/docs/app-movil/tracking"
+    "permalink": "/docs/app-movil/tracking"
   }
 }

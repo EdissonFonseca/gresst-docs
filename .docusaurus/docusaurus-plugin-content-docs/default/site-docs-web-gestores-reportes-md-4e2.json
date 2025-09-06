@@ -5,7 +5,7 @@
   "source": "@site/docs/web-gestores/reportes.md",
   "sourceDirName": "web-gestores",
   "slug": "/web-gestores/reportes",
-  "permalink": "/gresst-docs/docs/web-gestores/reportes",
+  "permalink": "/docs/web-gestores/reportes",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/reportes.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Gestión de Operaciones",
-    "permalink": "/gresst-docs/docs/web-gestores/gestion-operaciones"
+    "permalink": "/docs/web-gestores/gestion-operaciones"
   },
   "next": {
     "title": "Portal Web para Generadores de Residuos",
-    "permalink": "/gresst-docs/docs/web-generadores/intro"
+    "permalink": "/docs/web-generadores/intro"
   }
 }
