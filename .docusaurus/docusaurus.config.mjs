@@ -77,15 +77,15 @@ export default {
           "items": [
             {
               "label": "App Móvil - Recolección",
-              "to": "/docs/app-movil"
+              "to": "/docs/app-movil/intro"
             },
             {
               "label": "Web - Gestores",
-              "to": "/docs/web-gestores"
+              "to": "/docs/web-gestores/intro"
             },
             {
               "label": "Web - Generadores",
-              "to": "/docs/web-generadores"
+              "to": "/docs/web-generadores/intro"
             }
           ]
         },
@@ -115,11 +115,11 @@ export default {
             },
             {
               "label": "API Reference",
-              "to": "/docs/api"
+              "to": "/docs/api/intro"
             },
             {
               "label": "Guías de Usuario",
-              "to": "/docs/guides"
+              "to": "/docs/guides/getting-started"
             }
           ]
         },
@@ -128,15 +128,15 @@ export default {
           "items": [
             {
               "label": "App Móvil",
-              "to": "/docs/app-movil"
+              "to": "/docs/app-movil/intro"
             },
             {
               "label": "Web Gestores",
-              "to": "/docs/web-gestores"
+              "to": "/docs/web-gestores/intro"
             },
             {
               "label": "Web Generadores",
-              "to": "/docs/web-generadores"
+              "to": "/docs/web-generadores/intro"
             }
           ]
         },
@@ -145,11 +145,11 @@ export default {
           "items": [
             {
               "label": "Centro de Ayuda",
-              "to": "/docs/help"
+              "to": "/docs/help/centro-ayuda"
             },
             {
               "label": "Contacto",
-              "to": "/docs/contact"
+              "to": "/docs/help/contacto"
             },
             {
               "label": "Estado del Sistema",
