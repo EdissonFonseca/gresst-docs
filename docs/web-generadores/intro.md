@@ -233,7 +233,7 @@ Herramientas avanzadas de análisis y reportes:
 1. **[Solicitar Servicio](/docs/web-generadores/solicitar-servicio)** - Aprende a solicitar servicios
 2. **[Seguimiento de Servicios](/docs/web-generadores/seguimiento)** - Monitorea tus servicios
 3. **[Facturación y Pagos](/docs/web-generadores/facturacion)** - Gestiona tu facturación
-4. **[Análisis y Reportes](/docs/web-generadores/analisis)** - Explora las herramientas de análisis
+4. **[Seguimiento](/docs/web-generadores/seguimiento)** - Explora las herramientas de seguimiento
 
 ---
 

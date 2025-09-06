@@ -207,7 +207,7 @@ Herramientas avanzadas de análisis y reportes:
 1. **[Dashboard Principal](/docs/web-gestores/dashboard)** - Explora el centro de control
 2. **[Gestión de Operaciones](/docs/web-gestores/gestion-operaciones)** - Aprende a gestionar operaciones
 3. **[Reportes y Análisis](/docs/web-gestores/reportes)** - Descubre las herramientas de análisis
-4. **[Configuración](/docs/web-gestores/configuracion)** - Configura tu cuenta y preferencias
+4. **[Reportes](/docs/web-gestores/reportes)** - Genera reportes y análisis
 
 ---
 

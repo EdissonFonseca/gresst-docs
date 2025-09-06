@@ -270,4 +270,4 @@ El módulo de Facturación y Pagos proporciona herramientas completas para la ge
 
 ---
 
-¿Necesitas información sobre el análisis y reportes? Consulta la sección de [Análisis y Reportes](/docs/web-generadores/analisis) para más detalles.
+¿Necesitas información sobre el análisis y reportes? Consulta la sección de [Seguimiento](/docs/web-generadores/seguimiento) para más detalles.

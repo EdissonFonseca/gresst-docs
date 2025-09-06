@@ -5,8 +5,8 @@ Bienvenido al Centro de Ayuda de la Plataforma de Gestión de Residuos. Aquí en
 ## Recursos de Ayuda
 
 ### 📚 Documentación
-- **[Guías de Usuario](/docs/guides)** - Guías detalladas paso a paso
-- **[API Reference](/docs/api)** - Documentación completa de la API
+- **[Guías de Usuario](/docs/guides/getting-started)** - Guías detalladas paso a paso
+- **[API Reference](/docs/api/intro)** - Documentación completa de la API
 - **[FAQ](/docs/guides/faq)** - Preguntas frecuentes
 - **[Troubleshooting](/docs/guides/troubleshooting)** - Solución de problemas
 

@@ -143,10 +143,10 @@
 ## Recursos de Autoayuda
 
 ### 📚 Documentación
-- **[Guías de Usuario](/docs/guides)** - Guías detalladas
+- **[Guías de Usuario](/docs/guides/getting-started)** - Guías detalladas
 - **[FAQ](/docs/guides/faq)** - Preguntas frecuentes
 - **[Troubleshooting](/docs/guides/troubleshooting)** - Solución de problemas
-- **[API Reference](/docs/api)** - Documentación técnica
+- **[API Reference](/docs/api/intro)** - Documentación técnica
 
 ### 🎥 Tutoriales
 - **Videos de capacitación** - Tutoriales paso a paso

@@ -224,8 +224,8 @@ Esta guía te ayudará a dar los primeros pasos en la Plataforma de Gestión de 
 ## Recursos Adicionales
 
 ### Documentación
-- **[Guías de usuario](/docs/guides)** - Guías detalladas
-- **[API Reference](/docs/api)** - Documentación de API
+- **[Guías de usuario](/docs/guides/getting-started)** - Guías detalladas
+- **[API Reference](/docs/api/intro)** - Documentación de API
 - **[FAQ](/docs/guides/faq)** - Preguntas frecuentes
 - **[Troubleshooting](/docs/guides/troubleshooting)** - Solución de problemas
 
