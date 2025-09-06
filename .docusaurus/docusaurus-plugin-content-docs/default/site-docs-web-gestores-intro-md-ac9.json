@@ -5,7 +5,7 @@
   "source": "@site/docs/web-gestores/intro.md",
   "sourceDirName": "web-gestores",
   "slug": "/web-gestores/intro",
-  "permalink": "/docs/web-gestores/intro",
+  "permalink": "/waste-management-platform-docs/docs/web-gestores/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/intro.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Seguimiento y Tracking",
-    "permalink": "/docs/app-movil/tracking"
+    "permalink": "/waste-management-platform-docs/docs/app-movil/tracking"
   },
   "next": {
     "title": "Dashboard Principal",
-    "permalink": "/docs/web-gestores/dashboard"
+    "permalink": "/waste-management-platform-docs/docs/web-gestores/dashboard"
   }
 }

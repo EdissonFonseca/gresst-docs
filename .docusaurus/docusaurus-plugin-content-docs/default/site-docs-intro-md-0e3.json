@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/waste-management-platform-docs/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/intro.md",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "App Móvil de Recolección",
-    "permalink": "/docs/app-movil/intro"
+    "permalink": "/waste-management-platform-docs/docs/app-movil/intro"
   }
 }

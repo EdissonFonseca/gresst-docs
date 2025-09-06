@@ -5,7 +5,7 @@
   "source": "@site/docs/help/contacto.md",
   "sourceDirName": "help",
   "slug": "/help/contacto",
-  "permalink": "/docs/help/contacto",
+  "permalink": "/waste-management-platform-docs/docs/help/contacto",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/help/contacto.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Centro de Ayuda",
-    "permalink": "/docs/help/centro-ayuda"
+    "permalink": "/waste-management-platform-docs/docs/help/centro-ayuda"
   },
   "next": {
     "title": "Estado del Sistema",
-    "permalink": "/docs/help/estado-sistema"
+    "permalink": "/waste-management-platform-docs/docs/help/estado-sistema"
   }
 }

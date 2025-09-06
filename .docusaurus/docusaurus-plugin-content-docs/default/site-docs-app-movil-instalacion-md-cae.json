@@ -5,7 +5,7 @@
   "source": "@site/docs/app-movil/instalacion.md",
   "sourceDirName": "app-movil",
   "slug": "/app-movil/instalacion",
-  "permalink": "/docs/app-movil/instalacion",
+  "permalink": "/waste-management-platform-docs/docs/app-movil/instalacion",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/instalacion.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "App Móvil de Recolección",
-    "permalink": "/docs/app-movil/intro"
+    "permalink": "/waste-management-platform-docs/docs/app-movil/intro"
   },
   "next": {
     "title": "Funcionalidades de la App Móvil",
-    "permalink": "/docs/app-movil/funcionalidades"
+    "permalink": "/waste-management-platform-docs/docs/app-movil/funcionalidades"
   }
 }

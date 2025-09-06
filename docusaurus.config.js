@@ -7,12 +7,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://waste-management-platform.com',
+  url: 'https://TU_USUARIO.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/',
+  baseUrl: '/waste-management-platform-docs/',
 
   // GitHub pages deployment config.
-  organizationName: 'waste-management',
+  organizationName: 'TU_USUARIO',
   projectName: 'waste-management-platform-docs',
 
   onBrokenLinks: 'throw',

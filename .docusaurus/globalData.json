@@ -1,143 +1,143 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/waste-management-platform-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/waste-management-platform-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "api/autenticacion",
-              "path": "/docs/api/autenticacion",
+              "path": "/waste-management-platform-docs/docs/api/autenticacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/endpoints",
-              "path": "/docs/api/endpoints",
+              "path": "/waste-management-platform-docs/docs/api/endpoints",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/intro",
-              "path": "/docs/api/intro",
+              "path": "/waste-management-platform-docs/docs/api/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/sdk",
-              "path": "/docs/api/sdk",
+              "path": "/waste-management-platform-docs/docs/api/sdk",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "api/webhooks",
-              "path": "/docs/api/webhooks",
+              "path": "/waste-management-platform-docs/docs/api/webhooks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/funcionalidades",
-              "path": "/docs/app-movil/funcionalidades",
+              "path": "/waste-management-platform-docs/docs/app-movil/funcionalidades",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/instalacion",
-              "path": "/docs/app-movil/instalacion",
+              "path": "/waste-management-platform-docs/docs/app-movil/instalacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/intro",
-              "path": "/docs/app-movil/intro",
+              "path": "/waste-management-platform-docs/docs/app-movil/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/recoleccion",
-              "path": "/docs/app-movil/recoleccion",
+              "path": "/waste-management-platform-docs/docs/app-movil/recoleccion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "app-movil/tracking",
-              "path": "/docs/app-movil/tracking",
+              "path": "/waste-management-platform-docs/docs/app-movil/tracking",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/faq",
-              "path": "/docs/guides/faq",
+              "path": "/waste-management-platform-docs/docs/guides/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/getting-started",
-              "path": "/docs/guides/getting-started",
+              "path": "/waste-management-platform-docs/docs/guides/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/primeros-pasos",
-              "path": "/docs/guides/primeros-pasos",
+              "path": "/waste-management-platform-docs/docs/guides/primeros-pasos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "guides/troubleshooting",
-              "path": "/docs/guides/troubleshooting",
+              "path": "/waste-management-platform-docs/docs/guides/troubleshooting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/centro-ayuda",
-              "path": "/docs/help/centro-ayuda",
+              "path": "/waste-management-platform-docs/docs/help/centro-ayuda",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/contacto",
-              "path": "/docs/help/contacto",
+              "path": "/waste-management-platform-docs/docs/help/contacto",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "help/estado-sistema",
-              "path": "/docs/help/estado-sistema",
+              "path": "/waste-management-platform-docs/docs/help/estado-sistema",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/waste-management-platform-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/facturacion",
-              "path": "/docs/web-generadores/facturacion",
+              "path": "/waste-management-platform-docs/docs/web-generadores/facturacion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/intro",
-              "path": "/docs/web-generadores/intro",
+              "path": "/waste-management-platform-docs/docs/web-generadores/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/seguimiento",
-              "path": "/docs/web-generadores/seguimiento",
+              "path": "/waste-management-platform-docs/docs/web-generadores/seguimiento",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-generadores/solicitar-servicio",
-              "path": "/docs/web-generadores/solicitar-servicio",
+              "path": "/waste-management-platform-docs/docs/web-generadores/solicitar-servicio",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/dashboard",
-              "path": "/docs/web-gestores/dashboard",
+              "path": "/waste-management-platform-docs/docs/web-gestores/dashboard",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/gestion-operaciones",
-              "path": "/docs/web-gestores/gestion-operaciones",
+              "path": "/waste-management-platform-docs/docs/web-gestores/gestion-operaciones",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/intro",
-              "path": "/docs/web-gestores/intro",
+              "path": "/waste-management-platform-docs/docs/web-gestores/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "web-gestores/reportes",
-              "path": "/docs/web-gestores/reportes",
+              "path": "/waste-management-platform-docs/docs/web-gestores/reportes",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -145,7 +145,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/waste-management-platform-docs/docs/intro",
                 "label": "intro"
               }
             }

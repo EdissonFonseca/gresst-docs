@@ -1,48 +1,48 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/waste-management-platform-docs/__docusaurus/debug-c03": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/waste-management-platform-docs/__docusaurus/debug/config-fac": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/waste-management-platform-docs/__docusaurus/debug/content-f03": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---waste-management-platform-docs-docusaurus-debug-content-563-59c"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/waste-management-platform-docs/__docusaurus/debug/globalData-d48": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/waste-management-platform-docs/__docusaurus/debug/metadata-d5a": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/waste-management-platform-docs/__docusaurus/debug/registry-1ca": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/waste-management-platform-docs/__docusaurus/debug/routes-e29": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-544": {
+  "/waste-management-platform-docs/blog-dbb": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -53,16 +53,16 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "__props---waste-management-platform-docs-bloga-5-b-e38"
   },
-  "/blog/archive-182": {
+  "/waste-management-platform-docs/blog/archive-850": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "__props---waste-management-platform-docs-blog-archivea-05-4e3"
   },
-  "/blog/authors-0b7": {
+  "/waste-management-platform-docs/blog/authors-9e8": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -71,17 +71,17 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "__props": "__props---waste-management-platform-docs-blog-authors-9-b-4-ad4"
   },
-  "/blog/tags-287": {
+  "/waste-management-platform-docs/blog/tags-628": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "__props": "__props---waste-management-platform-docs-blog-tags-2-f-0-f1b"
   },
-  "/blog/tags/platform-815": {
+  "/waste-management-platform-docs/blog/tags/platform-d4b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -92,9 +92,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---blog-tags-platform-4-e-0-9b6"
+    "__props": "__props---waste-management-platform-docs-blog-tags-platformfc-4-238"
   },
-  "/blog/tags/waste-management-1d5": {
+  "/waste-management-platform-docs/blog/tags/waste-management-6bc": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -105,9 +105,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---blog-tags-waste-management-210-94f"
+    "__props": "__props---waste-management-platform-docs-blog-tags-waste-managementd-0-b-ffe"
   },
-  "/blog/tags/welcome-622": {
+  "/waste-management-platform-docs/blog/tags/welcome-6d1": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -118,9 +118,9 @@
         "content": "content---blogdc-5-cee"
       }
     ],
-    "__props": "__props---blog-tags-welcome-436-c4b"
+    "__props": "__props---waste-management-platform-docs-blog-tags-welcomee-99-366"
   },
-  "/blog/welcome-7eb": {
+  "/waste-management-platform-docs/blog/welcome-4a0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -131,130 +131,130 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomeaf-7-728"
   },
-  "/search-5de": {
+  "/waste-management-platform-docs/search-cad": {
     "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
       "plugin": "plugin---searchc-14-0ea"
     }
   },
-  "/docs-b90": {
+  "/waste-management-platform-docs/docs-be0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-9f9": {
+  "/waste-management-platform-docs/docs-b66": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---waste-management-platform-docs-docs-553-7cf"
   },
-  "/docs-73d": {
+  "/waste-management-platform-docs/docs-461": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/api/autenticacion-b7e": {
+  "/waste-management-platform-docs/docs/api/autenticacion-a11": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-autenticacion-548-a20"
   },
-  "/docs/api/endpoints-687": {
+  "/waste-management-platform-docs/docs/api/endpoints-0e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-endpointsd-04-b8a"
   },
-  "/docs/api/intro-352": {
+  "/waste-management-platform-docs/docs/api/intro-2dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-intro-626-312"
   },
-  "/docs/api/sdk-0f7": {
+  "/waste-management-platform-docs/docs/api/sdk-996": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-sdkff-4-ec7"
   },
-  "/docs/api/webhooks-f42": {
+  "/waste-management-platform-docs/docs/api/webhooks-8b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-api-webhooksba-8-d86"
   },
-  "/docs/app-movil/funcionalidades-f61": {
+  "/waste-management-platform-docs/docs/app-movil/funcionalidades-ad9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-funcionalidadesf-76-a30"
   },
-  "/docs/app-movil/instalacion-7e0": {
+  "/waste-management-platform-docs/docs/app-movil/instalacion-841": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-instalacioncae-711"
   },
-  "/docs/app-movil/intro-58c": {
+  "/waste-management-platform-docs/docs/app-movil/intro-9e6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-introbfd-777"
   },
-  "/docs/app-movil/recoleccion-950": {
+  "/waste-management-platform-docs/docs/app-movil/recoleccion-6fa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-recoleccion-018-61d"
   },
-  "/docs/app-movil/tracking-422": {
+  "/waste-management-platform-docs/docs/app-movil/tracking-af9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-app-movil-tracking-22-b-5d1"
   },
-  "/docs/guides/faq-312": {
+  "/waste-management-platform-docs/docs/guides/faq-889": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-faq-965-052"
   },
-  "/docs/guides/getting-started-2d1": {
+  "/waste-management-platform-docs/docs/guides/getting-started-75b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-getting-startedc-9-e-20f"
   },
-  "/docs/guides/primeros-pasos-d1d": {
+  "/waste-management-platform-docs/docs/guides/primeros-pasos-f0a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-primeros-pasosca-4-57b"
   },
-  "/docs/guides/troubleshooting-69b": {
+  "/waste-management-platform-docs/docs/guides/troubleshooting-6a7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-guides-troubleshooting-03-b-dc6"
   },
-  "/docs/help/centro-ayuda-195": {
+  "/waste-management-platform-docs/docs/help/centro-ayuda-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-centro-ayuda-693-a2d"
   },
-  "/docs/help/contacto-640": {
+  "/waste-management-platform-docs/docs/help/contacto-49b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-contacto-454-779"
   },
-  "/docs/help/estado-sistema-09a": {
+  "/waste-management-platform-docs/docs/help/estado-sistema-86c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-help-estado-sistema-2-b-0-507"
   },
-  "/docs/intro-61d": {
+  "/waste-management-platform-docs/docs/intro-935": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/web-generadores/facturacion-45c": {
+  "/waste-management-platform-docs/docs/web-generadores/facturacion-1c9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-facturacion-546-1ba"
   },
-  "/docs/web-generadores/intro-435": {
+  "/waste-management-platform-docs/docs/web-generadores/intro-0ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-intro-9-f-0-b9d"
   },
-  "/docs/web-generadores/seguimiento-ce9": {
+  "/waste-management-platform-docs/docs/web-generadores/seguimiento-f55": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-seguimiento-316-70e"
   },
-  "/docs/web-generadores/solicitar-servicio-2ce": {
+  "/waste-management-platform-docs/docs/web-generadores/solicitar-servicio-836": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-generadores-solicitar-servicio-848-6e8"
   },
-  "/docs/web-gestores/dashboard-984": {
+  "/waste-management-platform-docs/docs/web-gestores/dashboard-fc5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-dashboard-3-ec-bc9"
   },
-  "/docs/web-gestores/gestion-operaciones-bdb": {
+  "/waste-management-platform-docs/docs/web-gestores/gestion-operaciones-adf": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-gestion-operacionesdd-6-e4e"
   },
-  "/docs/web-gestores/intro-a0d": {
+  "/waste-management-platform-docs/docs/web-gestores/intro-8ee": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-introac-9-908"
   },
-  "/docs/web-gestores/reportes-929": {
+  "/waste-management-platform-docs/docs/web-gestores/reportes-33a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-gestores-reportes-4-e-2-d22"
   },
-  "/-2e1": {
+  "/waste-management-platform-docs/-2e0": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
       "plugin": "plugin---a-74-9d6"

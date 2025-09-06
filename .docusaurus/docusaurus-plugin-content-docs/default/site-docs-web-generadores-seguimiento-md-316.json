@@ -5,7 +5,7 @@
   "source": "@site/docs/web-generadores/seguimiento.md",
   "sourceDirName": "web-generadores",
   "slug": "/web-generadores/seguimiento",
-  "permalink": "/docs/web-generadores/seguimiento",
+  "permalink": "/waste-management-platform-docs/docs/web-generadores/seguimiento",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/seguimiento.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Solicitar Servicio",
-    "permalink": "/docs/web-generadores/solicitar-servicio"
+    "permalink": "/waste-management-platform-docs/docs/web-generadores/solicitar-servicio"
   },
   "next": {
     "title": "Facturación y Pagos",
-    "permalink": "/docs/web-generadores/facturacion"
+    "permalink": "/waste-management-platform-docs/docs/web-generadores/facturacion"
   }
 }

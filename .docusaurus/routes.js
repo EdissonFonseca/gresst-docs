@@ -3,250 +3,250 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/waste-management-platform-docs/__docusaurus/debug',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug', 'c03'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/config', 'fac'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/content', 'f03'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/globalData', 'd48'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/metadata', 'd5a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/registry', '1ca'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/waste-management-platform-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/waste-management-platform-docs/__docusaurus/debug/routes', 'e29'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '544'),
+    path: '/waste-management-platform-docs/blog',
+    component: ComponentCreator('/waste-management-platform-docs/blog', 'dbb'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/waste-management-platform-docs/blog/archive',
+    component: ComponentCreator('/waste-management-platform-docs/blog/archive', '850'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/waste-management-platform-docs/blog/authors',
+    component: ComponentCreator('/waste-management-platform-docs/blog/authors', '9e8'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/waste-management-platform-docs/blog/tags',
+    component: ComponentCreator('/waste-management-platform-docs/blog/tags', '628'),
     exact: true
   },
   {
-    path: '/blog/tags/platform',
-    component: ComponentCreator('/blog/tags/platform', '815'),
+    path: '/waste-management-platform-docs/blog/tags/platform',
+    component: ComponentCreator('/waste-management-platform-docs/blog/tags/platform', 'd4b'),
     exact: true
   },
   {
-    path: '/blog/tags/waste-management',
-    component: ComponentCreator('/blog/tags/waste-management', '1d5'),
+    path: '/waste-management-platform-docs/blog/tags/waste-management',
+    component: ComponentCreator('/waste-management-platform-docs/blog/tags/waste-management', '6bc'),
     exact: true
   },
   {
-    path: '/blog/tags/welcome',
-    component: ComponentCreator('/blog/tags/welcome', '622'),
+    path: '/waste-management-platform-docs/blog/tags/welcome',
+    component: ComponentCreator('/waste-management-platform-docs/blog/tags/welcome', '6d1'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '7eb'),
+    path: '/waste-management-platform-docs/blog/welcome',
+    component: ComponentCreator('/waste-management-platform-docs/blog/welcome', '4a0'),
     exact: true
   },
   {
-    path: '/search',
-    component: ComponentCreator('/search', '5de'),
+    path: '/waste-management-platform-docs/search',
+    component: ComponentCreator('/waste-management-platform-docs/search', 'cad'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'b90'),
+    path: '/waste-management-platform-docs/docs',
+    component: ComponentCreator('/waste-management-platform-docs/docs', 'be0'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '9f9'),
+        path: '/waste-management-platform-docs/docs',
+        component: ComponentCreator('/waste-management-platform-docs/docs', 'b66'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '73d'),
+            path: '/waste-management-platform-docs/docs',
+            component: ComponentCreator('/waste-management-platform-docs/docs', '461'),
             routes: [
               {
-                path: '/docs/api/autenticacion',
-                component: ComponentCreator('/docs/api/autenticacion', 'b7e'),
+                path: '/waste-management-platform-docs/docs/api/autenticacion',
+                component: ComponentCreator('/waste-management-platform-docs/docs/api/autenticacion', 'a11'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/api/endpoints',
-                component: ComponentCreator('/docs/api/endpoints', '687'),
+                path: '/waste-management-platform-docs/docs/api/endpoints',
+                component: ComponentCreator('/waste-management-platform-docs/docs/api/endpoints', '0e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/api/intro',
-                component: ComponentCreator('/docs/api/intro', '352'),
+                path: '/waste-management-platform-docs/docs/api/intro',
+                component: ComponentCreator('/waste-management-platform-docs/docs/api/intro', '2dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/api/sdk',
-                component: ComponentCreator('/docs/api/sdk', '0f7'),
+                path: '/waste-management-platform-docs/docs/api/sdk',
+                component: ComponentCreator('/waste-management-platform-docs/docs/api/sdk', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/api/webhooks',
-                component: ComponentCreator('/docs/api/webhooks', 'f42'),
+                path: '/waste-management-platform-docs/docs/api/webhooks',
+                component: ComponentCreator('/waste-management-platform-docs/docs/api/webhooks', '8b2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/app-movil/funcionalidades',
-                component: ComponentCreator('/docs/app-movil/funcionalidades', 'f61'),
+                path: '/waste-management-platform-docs/docs/app-movil/funcionalidades',
+                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/funcionalidades', 'ad9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/app-movil/instalacion',
-                component: ComponentCreator('/docs/app-movil/instalacion', '7e0'),
+                path: '/waste-management-platform-docs/docs/app-movil/instalacion',
+                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/instalacion', '841'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/app-movil/intro',
-                component: ComponentCreator('/docs/app-movil/intro', '58c'),
+                path: '/waste-management-platform-docs/docs/app-movil/intro',
+                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/intro', '9e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/app-movil/recoleccion',
-                component: ComponentCreator('/docs/app-movil/recoleccion', '950'),
+                path: '/waste-management-platform-docs/docs/app-movil/recoleccion',
+                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/recoleccion', '6fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/app-movil/tracking',
-                component: ComponentCreator('/docs/app-movil/tracking', '422'),
+                path: '/waste-management-platform-docs/docs/app-movil/tracking',
+                component: ComponentCreator('/waste-management-platform-docs/docs/app-movil/tracking', 'af9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/faq',
-                component: ComponentCreator('/docs/guides/faq', '312'),
+                path: '/waste-management-platform-docs/docs/guides/faq',
+                component: ComponentCreator('/waste-management-platform-docs/docs/guides/faq', '889'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/getting-started',
-                component: ComponentCreator('/docs/guides/getting-started', '2d1'),
+                path: '/waste-management-platform-docs/docs/guides/getting-started',
+                component: ComponentCreator('/waste-management-platform-docs/docs/guides/getting-started', '75b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/primeros-pasos',
-                component: ComponentCreator('/docs/guides/primeros-pasos', 'd1d'),
+                path: '/waste-management-platform-docs/docs/guides/primeros-pasos',
+                component: ComponentCreator('/waste-management-platform-docs/docs/guides/primeros-pasos', 'f0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/guides/troubleshooting',
-                component: ComponentCreator('/docs/guides/troubleshooting', '69b'),
+                path: '/waste-management-platform-docs/docs/guides/troubleshooting',
+                component: ComponentCreator('/waste-management-platform-docs/docs/guides/troubleshooting', '6a7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/help/centro-ayuda',
-                component: ComponentCreator('/docs/help/centro-ayuda', '195'),
+                path: '/waste-management-platform-docs/docs/help/centro-ayuda',
+                component: ComponentCreator('/waste-management-platform-docs/docs/help/centro-ayuda', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/help/contacto',
-                component: ComponentCreator('/docs/help/contacto', '640'),
+                path: '/waste-management-platform-docs/docs/help/contacto',
+                component: ComponentCreator('/waste-management-platform-docs/docs/help/contacto', '49b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/help/estado-sistema',
-                component: ComponentCreator('/docs/help/estado-sistema', '09a'),
+                path: '/waste-management-platform-docs/docs/help/estado-sistema',
+                component: ComponentCreator('/waste-management-platform-docs/docs/help/estado-sistema', '86c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/waste-management-platform-docs/docs/intro',
+                component: ComponentCreator('/waste-management-platform-docs/docs/intro', '935'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-generadores/facturacion',
-                component: ComponentCreator('/docs/web-generadores/facturacion', '45c'),
+                path: '/waste-management-platform-docs/docs/web-generadores/facturacion',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/facturacion', '1c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-generadores/intro',
-                component: ComponentCreator('/docs/web-generadores/intro', '435'),
+                path: '/waste-management-platform-docs/docs/web-generadores/intro',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/intro', '0ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-generadores/seguimiento',
-                component: ComponentCreator('/docs/web-generadores/seguimiento', 'ce9'),
+                path: '/waste-management-platform-docs/docs/web-generadores/seguimiento',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/seguimiento', 'f55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-generadores/solicitar-servicio',
-                component: ComponentCreator('/docs/web-generadores/solicitar-servicio', '2ce'),
+                path: '/waste-management-platform-docs/docs/web-generadores/solicitar-servicio',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-generadores/solicitar-servicio', '836'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-gestores/dashboard',
-                component: ComponentCreator('/docs/web-gestores/dashboard', '984'),
+                path: '/waste-management-platform-docs/docs/web-gestores/dashboard',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/dashboard', 'fc5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-gestores/gestion-operaciones',
-                component: ComponentCreator('/docs/web-gestores/gestion-operaciones', 'bdb'),
+                path: '/waste-management-platform-docs/docs/web-gestores/gestion-operaciones',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/gestion-operaciones', 'adf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-gestores/intro',
-                component: ComponentCreator('/docs/web-gestores/intro', 'a0d'),
+                path: '/waste-management-platform-docs/docs/web-gestores/intro',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/intro', '8ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-gestores/reportes',
-                component: ComponentCreator('/docs/web-gestores/reportes', '929'),
+                path: '/waste-management-platform-docs/docs/web-gestores/reportes',
+                component: ComponentCreator('/waste-management-platform-docs/docs/web-gestores/reportes', '33a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -257,8 +257,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/waste-management-platform-docs/',
+    component: ComponentCreator('/waste-management-platform-docs/', '2e0'),
     exact: true
   },
   {
