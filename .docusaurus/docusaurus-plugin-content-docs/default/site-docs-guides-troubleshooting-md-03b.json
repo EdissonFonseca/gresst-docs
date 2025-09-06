@@ -1,0 +1,24 @@
+{
+  "id": "guides/troubleshooting",
+  "title": "Solución de Problemas",
+  "description": "Esta guía te ayudará a resolver los problemas más comunes que pueden surgir al usar la Plataforma de Gestión de Residuos.",
+  "source": "@site/docs/guides/troubleshooting.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/troubleshooting",
+  "permalink": "/docs/guides/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeros Pasos",
+    "permalink": "/docs/guides/primeros-pasos"
+  },
+  "next": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "permalink": "/docs/guides/faq"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "web-generadores/facturacion",
+  "title": "Facturación y Pagos",
+  "description": "El módulo de Facturación y Pagos proporciona herramientas completas para la gestión financiera de servicios de recolección, tratamiento y disposición de residuos.",
+  "source": "@site/docs/web-generadores/facturacion.md",
+  "sourceDirName": "web-generadores",
+  "slug": "/web-generadores/facturacion",
+  "permalink": "/docs/web-generadores/facturacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/facturacion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Seguimiento de Servicios",
+    "permalink": "/docs/web-generadores/seguimiento"
+  },
+  "next": {
+    "title": "API y Integraciones",
+    "permalink": "/docs/api/intro"
+  }
+}

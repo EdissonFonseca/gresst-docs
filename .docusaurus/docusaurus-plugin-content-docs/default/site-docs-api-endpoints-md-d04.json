@@ -1,0 +1,24 @@
+{
+  "id": "api/endpoints",
+  "title": "Endpoints de la API",
+  "description": "Esta sección documenta todos los endpoints disponibles en la API de la Plataforma de Gestión de Residuos.",
+  "source": "@site/docs/api/endpoints.md",
+  "sourceDirName": "api",
+  "slug": "/api/endpoints",
+  "permalink": "/docs/api/endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/endpoints.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autenticación",
+    "permalink": "/docs/api/autenticacion"
+  },
+  "next": {
+    "title": "Webhooks",
+    "permalink": "/docs/api/webhooks"
+  }
+}

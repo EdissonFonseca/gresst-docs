@@ -1,0 +1,24 @@
+{
+  "id": "help/centro-ayuda",
+  "title": "Centro de Ayuda",
+  "description": "Bienvenido al Centro de Ayuda de la Plataforma de Gestión de Residuos. Aquí encontrarás recursos y herramientas para resolver tus dudas y problemas.",
+  "source": "@site/docs/help/centro-ayuda.md",
+  "sourceDirName": "help",
+  "slug": "/help/centro-ayuda",
+  "permalink": "/docs/help/centro-ayuda",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/help/centro-ayuda.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "permalink": "/docs/guides/faq"
+  },
+  "next": {
+    "title": "Contacto",
+    "permalink": "/docs/help/contacto"
+  }
+}

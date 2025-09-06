@@ -1,0 +1,24 @@
+{
+  "id": "web-generadores/solicitar-servicio",
+  "title": "Solicitar Servicio",
+  "description": "El módulo de Solicitud de Servicios permite a los generadores de residuos solicitar servicios de recolección, tratamiento, almacenamiento y disposición de manera fácil y eficiente.",
+  "source": "@site/docs/web-generadores/solicitar-servicio.md",
+  "sourceDirName": "web-generadores",
+  "slug": "/web-generadores/solicitar-servicio",
+  "permalink": "/docs/web-generadores/solicitar-servicio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/solicitar-servicio.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Portal Web para Generadores de Residuos",
+    "permalink": "/docs/web-generadores/intro"
+  },
+  "next": {
+    "title": "Seguimiento de Servicios",
+    "permalink": "/docs/web-generadores/seguimiento"
+  }
+}

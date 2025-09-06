@@ -1,0 +1,24 @@
+{
+  "id": "api/autenticacion",
+  "title": "Autenticación",
+  "description": "La API de la Plataforma de Gestión de Residuos utiliza múltiples métodos de autenticación para garantizar la seguridad y flexibilidad en el acceso a los recursos.",
+  "source": "@site/docs/api/autenticacion.md",
+  "sourceDirName": "api",
+  "slug": "/api/autenticacion",
+  "permalink": "/docs/api/autenticacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/autenticacion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API y Integraciones",
+    "permalink": "/docs/api/intro"
+  },
+  "next": {
+    "title": "Endpoints de la API",
+    "permalink": "/docs/api/endpoints"
+  }
+}

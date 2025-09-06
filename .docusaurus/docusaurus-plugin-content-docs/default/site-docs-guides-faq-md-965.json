@@ -1,0 +1,24 @@
+{
+  "id": "guides/faq",
+  "title": "Preguntas Frecuentes (FAQ)",
+  "description": "Esta sección responde a las preguntas más comunes sobre la Plataforma de Gestión de Residuos.",
+  "source": "@site/docs/guides/faq.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/faq",
+  "permalink": "/docs/guides/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solución de Problemas",
+    "permalink": "/docs/guides/troubleshooting"
+  },
+  "next": {
+    "title": "Centro de Ayuda",
+    "permalink": "/docs/help/centro-ayuda"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "app-movil/tracking",
+  "title": "Seguimiento y Tracking",
+  "description": "El sistema de seguimiento y tracking de la App Móvil proporciona visibilidad completa en tiempo real de todas las operaciones de recolección, permitiendo una gestión eficiente y transparente.",
+  "source": "@site/docs/app-movil/tracking.md",
+  "sourceDirName": "app-movil",
+  "slug": "/app-movil/tracking",
+  "permalink": "/docs/app-movil/tracking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/tracking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gestión de Recolección",
+    "permalink": "/docs/app-movil/recoleccion"
+  },
+  "next": {
+    "title": "Plataforma Web para Gestores de Residuos",
+    "permalink": "/docs/web-gestores/intro"
+  }
+}

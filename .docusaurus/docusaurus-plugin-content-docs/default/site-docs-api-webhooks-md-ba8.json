@@ -1,0 +1,24 @@
+{
+  "id": "api/webhooks",
+  "title": "Webhooks",
+  "description": "Los webhooks permiten recibir notificaciones en tiempo real de eventos importantes en la Plataforma de Gestión de Residuos.",
+  "source": "@site/docs/api/webhooks.md",
+  "sourceDirName": "api",
+  "slug": "/api/webhooks",
+  "permalink": "/docs/api/webhooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/webhooks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Endpoints de la API",
+    "permalink": "/docs/api/endpoints"
+  },
+  "next": {
+    "title": "SDK",
+    "permalink": "/docs/api/sdk"
+  }
+}

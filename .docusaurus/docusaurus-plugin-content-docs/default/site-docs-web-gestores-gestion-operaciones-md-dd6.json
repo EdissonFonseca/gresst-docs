@@ -1,0 +1,24 @@
+{
+  "id": "web-gestores/gestion-operaciones",
+  "title": "Gestión de Operaciones",
+  "description": "El módulo de Gestión de Operaciones proporciona herramientas completas para planificar, ejecutar y supervisar todas las operaciones de recolección de residuos de manera eficiente.",
+  "source": "@site/docs/web-gestores/gestion-operaciones.md",
+  "sourceDirName": "web-gestores",
+  "slug": "/web-gestores/gestion-operaciones",
+  "permalink": "/docs/web-gestores/gestion-operaciones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/gestion-operaciones.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard Principal",
+    "permalink": "/docs/web-gestores/dashboard"
+  },
+  "next": {
+    "title": "Reportes y Análisis",
+    "permalink": "/docs/web-gestores/reportes"
+  }
+}

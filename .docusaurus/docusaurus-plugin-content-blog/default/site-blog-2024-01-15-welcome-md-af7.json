@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/blog/2024-01-15-welcome.md",
+  "source": "@site/blog/2024-01-15-welcome.md",
+  "title": "Bienvenido a la Plataforma de Gestión de Residuos",
+  "description": "¡Bienvenido a la Plataforma de Gestión de Residuos! Estamos emocionados de presentarte una solución integral que revolucionará la forma en que gestionas los residuos en tu organización.",
+  "date": "2024-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    },
+    {
+      "inline": true,
+      "label": "platform",
+      "permalink": "/blog/tags/platform"
+    },
+    {
+      "inline": true,
+      "label": "waste-management",
+      "permalink": "/blog/tags/waste-management"
+    }
+  ],
+  "readingTime": 1.62,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Administrador",
+      "title": "Equipo de Documentación",
+      "url": "https://waste-management-platform.com",
+      "imageURL": "https://waste-management-platform.com/img/team/admin.jpg",
+      "key": "admin",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Bienvenido a la Plataforma de Gestión de Residuos",
+    "authors": [
+      "admin"
+    ],
+    "tags": [
+      "welcome",
+      "platform",
+      "waste-management"
+    ]
+  },
+  "unlisted": false
+}

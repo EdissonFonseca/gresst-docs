@@ -1,0 +1,24 @@
+{
+  "id": "web-gestores/reportes",
+  "title": "Reportes y Análisis",
+  "description": "El módulo de Reportes y Análisis proporciona herramientas avanzadas para generar, visualizar y analizar datos operacionales, financieros y de rendimiento de la plataforma de gestión de residuos.",
+  "source": "@site/docs/web-gestores/reportes.md",
+  "sourceDirName": "web-gestores",
+  "slug": "/web-gestores/reportes",
+  "permalink": "/docs/web-gestores/reportes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/reportes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gestión de Operaciones",
+    "permalink": "/docs/web-gestores/gestion-operaciones"
+  },
+  "next": {
+    "title": "Portal Web para Generadores de Residuos",
+    "permalink": "/docs/web-generadores/intro"
+  }
+}

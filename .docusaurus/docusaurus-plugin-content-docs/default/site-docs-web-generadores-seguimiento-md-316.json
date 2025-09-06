@@ -1,0 +1,24 @@
+{
+  "id": "web-generadores/seguimiento",
+  "title": "Seguimiento de Servicios",
+  "description": "El módulo de Seguimiento de Servicios proporciona visibilidad completa en tiempo real de todos los servicios de recolección, tratamiento y disposición de residuos, permitiendo un control total del proceso.",
+  "source": "@site/docs/web-generadores/seguimiento.md",
+  "sourceDirName": "web-generadores",
+  "slug": "/web-generadores/seguimiento",
+  "permalink": "/docs/web-generadores/seguimiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/seguimiento.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solicitar Servicio",
+    "permalink": "/docs/web-generadores/solicitar-servicio"
+  },
+  "next": {
+    "title": "Facturación y Pagos",
+    "permalink": "/docs/web-generadores/facturacion"
+  }
+}

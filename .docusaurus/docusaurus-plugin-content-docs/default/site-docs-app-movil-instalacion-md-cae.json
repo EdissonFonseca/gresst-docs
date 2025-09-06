@@ -1,0 +1,24 @@
+{
+  "id": "app-movil/instalacion",
+  "title": "Instalación de la App Móvil",
+  "description": "Esta guía te ayudará a instalar y configurar la App Móvil de Recolección en tu dispositivo.",
+  "source": "@site/docs/app-movil/instalacion.md",
+  "sourceDirName": "app-movil",
+  "slug": "/app-movil/instalacion",
+  "permalink": "/docs/app-movil/instalacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/instalacion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "App Móvil de Recolección",
+    "permalink": "/docs/app-movil/intro"
+  },
+  "next": {
+    "title": "Funcionalidades de la App Móvil",
+    "permalink": "/docs/app-movil/funcionalidades"
+  }
+}

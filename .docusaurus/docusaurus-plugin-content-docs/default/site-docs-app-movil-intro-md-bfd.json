@@ -1,0 +1,24 @@
+{
+  "id": "app-movil/intro",
+  "title": "App Móvil de Recolección",
+  "description": "La App Móvil de Recolección es una aplicación móvil diseñada específicamente para operadores de campo, conductores, recolectores y supervisores que participan en las operaciones de recolección de residuos.",
+  "source": "@site/docs/app-movil/intro.md",
+  "sourceDirName": "app-movil",
+  "slug": "/app-movil/intro",
+  "permalink": "/docs/app-movil/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Instalación de la App Móvil",
+    "permalink": "/docs/app-movil/instalacion"
+  }
+}

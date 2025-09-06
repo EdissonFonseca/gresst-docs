@@ -1,0 +1,24 @@
+{
+  "id": "api/sdk",
+  "title": "SDK",
+  "description": "Los SDKs (Software Development Kits) proporcionan bibliotecas para integrar fácilmente la API de la Plataforma de Gestión de Residuos en diferentes lenguajes de programación.",
+  "source": "@site/docs/api/sdk.md",
+  "sourceDirName": "api",
+  "slug": "/api/sdk",
+  "permalink": "/docs/api/sdk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/sdk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webhooks",
+    "permalink": "/docs/api/webhooks"
+  },
+  "next": {
+    "title": "Guía de Inicio Rápido",
+    "permalink": "/docs/guides/getting-started"
+  }
+}

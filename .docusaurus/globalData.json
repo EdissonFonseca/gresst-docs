@@ -1,0 +1,158 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/autenticacion",
+              "path": "/docs/api/autenticacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/endpoints",
+              "path": "/docs/api/endpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/intro",
+              "path": "/docs/api/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/sdk",
+              "path": "/docs/api/sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/webhooks",
+              "path": "/docs/api/webhooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "app-movil/funcionalidades",
+              "path": "/docs/app-movil/funcionalidades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "app-movil/instalacion",
+              "path": "/docs/app-movil/instalacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "app-movil/intro",
+              "path": "/docs/app-movil/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "app-movil/recoleccion",
+              "path": "/docs/app-movil/recoleccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "app-movil/tracking",
+              "path": "/docs/app-movil/tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/faq",
+              "path": "/docs/guides/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/getting-started",
+              "path": "/docs/guides/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/primeros-pasos",
+              "path": "/docs/guides/primeros-pasos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/troubleshooting",
+              "path": "/docs/guides/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "help/centro-ayuda",
+              "path": "/docs/help/centro-ayuda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "help/contacto",
+              "path": "/docs/help/contacto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "help/estado-sistema",
+              "path": "/docs/help/estado-sistema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-generadores/facturacion",
+              "path": "/docs/web-generadores/facturacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-generadores/intro",
+              "path": "/docs/web-generadores/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-generadores/seguimiento",
+              "path": "/docs/web-generadores/seguimiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-generadores/solicitar-servicio",
+              "path": "/docs/web-generadores/solicitar-servicio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-gestores/dashboard",
+              "path": "/docs/web-gestores/dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-gestores/gestion-operaciones",
+              "path": "/docs/web-gestores/gestion-operaciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-gestores/intro",
+              "path": "/docs/web-gestores/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-gestores/reportes",
+              "path": "/docs/web-gestores/reportes",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

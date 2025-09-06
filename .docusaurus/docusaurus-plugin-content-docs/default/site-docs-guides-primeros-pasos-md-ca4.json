@@ -1,0 +1,24 @@
+{
+  "id": "guides/primeros-pasos",
+  "title": "Primeros Pasos",
+  "description": "Esta guía te ayudará a dar los primeros pasos en la Plataforma de Gestión de Residuos después de crear tu cuenta.",
+  "source": "@site/docs/guides/primeros-pasos.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/primeros-pasos",
+  "permalink": "/docs/guides/primeros-pasos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/primeros-pasos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guía de Inicio Rápido",
+    "permalink": "/docs/guides/getting-started"
+  },
+  "next": {
+    "title": "Solución de Problemas",
+    "permalink": "/docs/guides/troubleshooting"
+  }
+}

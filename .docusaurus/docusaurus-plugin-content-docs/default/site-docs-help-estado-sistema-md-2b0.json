@@ -1,0 +1,20 @@
+{
+  "id": "help/estado-sistema",
+  "title": "Estado del Sistema",
+  "description": "Monitorea el estado actual de la Plataforma de Gestión de Residuos en tiempo real.",
+  "source": "@site/docs/help/estado-sistema.md",
+  "sourceDirName": "help",
+  "slug": "/help/estado-sistema",
+  "permalink": "/docs/help/estado-sistema",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/help/estado-sistema.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contacto",
+    "permalink": "/docs/help/contacto"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "web-gestores/intro",
+  "title": "Plataforma Web para Gestores de Residuos",
+  "description": "La Plataforma Web para Gestores de Residuos es una solución integral diseñada para empresas que se dedican a la recolección, tratamiento, almacenamiento y disposición de residuos. Esta plataforma centraliza todas las operaciones y proporciona herramientas avanzadas de gestión y análisis.",
+  "source": "@site/docs/web-gestores/intro.md",
+  "sourceDirName": "web-gestores",
+  "slug": "/web-gestores/intro",
+  "permalink": "/docs/web-gestores/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Seguimiento y Tracking",
+    "permalink": "/docs/app-movil/tracking"
+  },
+  "next": {
+    "title": "Dashboard Principal",
+    "permalink": "/docs/web-gestores/dashboard"
+  }
+}

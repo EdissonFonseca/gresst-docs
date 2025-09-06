@@ -1,0 +1,24 @@
+{
+  "id": "app-movil/recoleccion",
+  "title": "Gestión de Recolección",
+  "description": "Esta sección detalla el proceso completo de recolección de residuos utilizando la App Móvil, desde la preparación de rutas hasta el registro final de datos.",
+  "source": "@site/docs/app-movil/recoleccion.md",
+  "sourceDirName": "app-movil",
+  "slug": "/app-movil/recoleccion",
+  "permalink": "/docs/app-movil/recoleccion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/recoleccion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Funcionalidades de la App Móvil",
+    "permalink": "/docs/app-movil/funcionalidades"
+  },
+  "next": {
+    "title": "Seguimiento y Tracking",
+    "permalink": "/docs/app-movil/tracking"
+  }
+}

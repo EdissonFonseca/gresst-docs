@@ -1,0 +1,24 @@
+{
+  "id": "web-generadores/intro",
+  "title": "Portal Web para Generadores de Residuos",
+  "description": "El Portal Web para Generadores de Residuos es una plataforma diseñada para empresas e instituciones que generan residuos y necesitan servicios de recolección, tratamiento, almacenamiento y disposición. Esta plataforma conecta a los generadores con una red de gestores certificados.",
+  "source": "@site/docs/web-generadores/intro.md",
+  "sourceDirName": "web-generadores",
+  "slug": "/web-generadores/intro",
+  "permalink": "/docs/web-generadores/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reportes y Análisis",
+    "permalink": "/docs/web-gestores/reportes"
+  },
+  "next": {
+    "title": "Solicitar Servicio",
+    "permalink": "/docs/web-generadores/solicitar-servicio"
+  }
+}

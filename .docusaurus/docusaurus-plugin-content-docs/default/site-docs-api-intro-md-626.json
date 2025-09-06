@@ -1,0 +1,24 @@
+{
+  "id": "api/intro",
+  "title": "API y Integraciones",
+  "description": "La API de la Plataforma de Gestión de Residuos proporciona acceso programático a todas las funcionalidades de la plataforma, permitiendo la integración con sistemas externos y el desarrollo de aplicaciones personalizadas.",
+  "source": "@site/docs/api/intro.md",
+  "sourceDirName": "api",
+  "slug": "/api/intro",
+  "permalink": "/docs/api/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facturación y Pagos",
+    "permalink": "/docs/web-generadores/facturacion"
+  },
+  "next": {
+    "title": "Autenticación",
+    "permalink": "/docs/api/autenticacion"
+  }
+}

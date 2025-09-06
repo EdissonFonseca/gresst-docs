@@ -1,0 +1,24 @@
+{
+  "id": "app-movil/funcionalidades",
+  "title": "Funcionalidades de la App Móvil",
+  "description": "La App Móvil de Recolección ofrece un conjunto completo de funcionalidades diseñadas para optimizar las operaciones de recolección de residuos en campo.",
+  "source": "@site/docs/app-movil/funcionalidades.md",
+  "sourceDirName": "app-movil",
+  "slug": "/app-movil/funcionalidades",
+  "permalink": "/docs/app-movil/funcionalidades",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/app-movil/funcionalidades.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalación de la App Móvil",
+    "permalink": "/docs/app-movil/instalacion"
+  },
+  "next": {
+    "title": "Gestión de Recolección",
+    "permalink": "/docs/app-movil/recoleccion"
+  }
+}

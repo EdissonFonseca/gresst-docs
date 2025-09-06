@@ -1,0 +1,24 @@
+{
+  "id": "web-gestores/dashboard",
+  "title": "Dashboard Principal",
+  "description": "El Dashboard Principal es el centro de control de la plataforma web para gestores de residuos, proporcionando una vista general en tiempo real de todas las operaciones y métricas clave.",
+  "source": "@site/docs/web-gestores/dashboard.md",
+  "sourceDirName": "web-gestores",
+  "slug": "/web-gestores/dashboard",
+  "permalink": "/docs/web-gestores/dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-gestores/dashboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plataforma Web para Gestores de Residuos",
+    "permalink": "/docs/web-gestores/intro"
+  },
+  "next": {
+    "title": "Gestión de Operaciones",
+    "permalink": "/docs/web-gestores/gestion-operaciones"
+  }
+}
