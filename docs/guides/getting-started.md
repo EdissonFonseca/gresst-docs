@@ -30,7 +30,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 4. Completa el formulario de registro
 5. Verifica tu email
 
-![Crear cuenta](/img/genarator-register.png)
+![Crear cuenta](../../static/img/genarator-register.png)
 
 
 ### 2. Configurar Perfil
