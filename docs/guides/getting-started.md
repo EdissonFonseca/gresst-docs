@@ -19,7 +19,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 - Flota de vehículos para recolección
 - Personal capacitado
 
-![Configuración de la cuenta](/img/operator-account.png)
+![Configuración de la cuenta](../../static/img/operator-account.png)
 
 ## Configuración Inicial
 
@@ -30,7 +30,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 4. Completa el formulario de registro
 5. Verifica tu email
 
-![Crear cuenta](/img/operator-register.png)
+![Crear cuenta](../../static/img/operator-register.png)
 
 
 ### 2. Configurar Perfil
@@ -46,7 +46,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
    - Horarios de trabajo
    - Capacidades de recolección
 
-![Servicios](/img/operator-services.png)
+![Servicios](../../static/img/operator-services.png)
 
 3. **Configuración de notificaciones**
    - Email de notificaciones
