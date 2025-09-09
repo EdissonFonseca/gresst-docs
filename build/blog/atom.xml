@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.gresst.com/blog</id>
+    <title>Plataforma de Gestión de Residuos Blog</title>
+    <updated>2024-01-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.gresst.com/blog"/>
+    <subtitle>Plataforma de Gestión de Residuos Blog</subtitle>
+    <icon>https://docs.gresst.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bienvenido a la Plataforma de Gestión de Residuos]]></title>
+        <id>https://docs.gresst.com/blog/welcome</id>
+        <link href="https://docs.gresst.com/blog/welcome"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[¡Bienvenido a la Plataforma de Gestión de Residuos! Estamos emocionados de presentarte una solución integral que revolucionará la forma en que gestionas los residuos en tu organización.]]></summary>
+        <content type="html"><![CDATA[<p>¡Bienvenido a la Plataforma de Gestión de Residuos! Estamos emocionados de presentarte una solución integral que revolucionará la forma en que gestionas los residuos en tu organización.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qué-es-la-plataforma-de-gestión-de-residuos">¿Qué es la Plataforma de Gestión de Residuos?<a href="https://docs.gresst.com/blog/welcome#qu%C3%A9-es-la-plataforma-de-gesti%C3%B3n-de-residuos" class="hash-link" aria-label="Enlace directo al ¿Qué es la Plataforma de Gestión de Residuos?" title="Enlace directo al ¿Qué es la Plataforma de Gestión de Residuos?">​</a></h2>
+<p>Nuestra plataforma es un ecosistema completo que conecta a todos los actores involucrados en la cadena de valor de los residuos:</p>
+<ul>
+<li><strong>Generadores de residuos</strong> (empresas, industrias, instituciones)</li>
+<li><strong>Gestores y operadores logísticos</strong> (empresas de recolección, tratamiento, almacenamiento)</li>
+<li><strong>Operadores de campo</strong> (recolectores, supervisores, conductores)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="características-principales">Características Principales<a href="https://docs.gresst.com/blog/welcome#caracter%C3%ADsticas-principales" class="hash-link" aria-label="Enlace directo al Características Principales" title="Enlace directo al Características Principales">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-app-móvil-de-recolección">📱 App Móvil de Recolección<a href="https://docs.gresst.com/blog/welcome#-app-m%C3%B3vil-de-recolecci%C3%B3n" class="hash-link" aria-label="Enlace directo al 📱 App Móvil de Recolección" title="Enlace directo al 📱 App Móvil de Recolección">​</a></h3>
+<ul>
+<li>Gestión de rutas optimizadas</li>
+<li>Seguimiento en tiempo real</li>
+<li>Captura de datos offline</li>
+<li>Sincronización automática</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-plataforma-web-para-gestores">💻 Plataforma Web para Gestores<a href="https://docs.gresst.com/blog/welcome#-plataforma-web-para-gestores" class="hash-link" aria-label="Enlace directo al 💻 Plataforma Web para Gestores" title="Enlace directo al 💻 Plataforma Web para Gestores">​</a></h3>
+<ul>
+<li>Dashboard ejecutivo completo</li>
+<li>Gestión de flota y operaciones</li>
+<li>Análisis de datos avanzado</li>
+<li>Reportes personalizables</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-portal-web-para-generadores">🌐 Portal Web para Generadores<a href="https://docs.gresst.com/blog/welcome#-portal-web-para-generadores" class="hash-link" aria-label="Enlace directo al 🌐 Portal Web para Generadores" title="Enlace directo al 🌐 Portal Web para Generadores">​</a></h3>
+<ul>
+<li>Solicitud de servicios fácil</li>
+<li>Seguimiento en tiempo real</li>
+<li>Gestión de facturación</li>
+<li>Análisis de costos</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="beneficios-de-la-plataforma">Beneficios de la Plataforma<a href="https://docs.gresst.com/blog/welcome#beneficios-de-la-plataforma" class="hash-link" aria-label="Enlace directo al Beneficios de la Plataforma" title="Enlace directo al Beneficios de la Plataforma">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="para-generadores-de-residuos">Para Generadores de Residuos<a href="https://docs.gresst.com/blog/welcome#para-generadores-de-residuos" class="hash-link" aria-label="Enlace directo al Para Generadores de Residuos" title="Enlace directo al Para Generadores de Residuos">​</a></h3>
+<ul>
+<li>✅ Reducción de costos operativos</li>
+<li>✅ Mejora en la trazabilidad de residuos</li>
+<li>✅ Cumplimiento normativo simplificado</li>
+<li>✅ Acceso a una red de gestores certificados</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="para-gestores-y-operadores">Para Gestores y Operadores<a href="https://docs.gresst.com/blog/welcome#para-gestores-y-operadores" class="hash-link" aria-label="Enlace directo al Para Gestores y Operadores" title="Enlace directo al Para Gestores y Operadores">​</a></h3>
+<ul>
+<li>✅ Optimización de rutas y recursos</li>
+<li>✅ Mejora en la eficiencia operativa</li>
+<li>✅ Reducción de costos de combustible</li>
+<li>✅ Mejor planificación y programación</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="para-el-medio-ambiente">Para el Medio Ambiente<a href="https://docs.gresst.com/blog/welcome#para-el-medio-ambiente" class="hash-link" aria-label="Enlace directo al Para el Medio Ambiente" title="Enlace directo al Para el Medio Ambiente">​</a></h3>
+<ul>
+<li>✅ Reducción de emisiones de CO2</li>
+<li>✅ Mejor gestión de residuos peligrosos</li>
+<li>✅ Incremento en las tasas de reciclaje</li>
+<li>✅ Trazabilidad completa del ciclo de vida</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="próximos-pasos">Próximos Pasos<a href="https://docs.gresst.com/blog/welcome#pr%C3%B3ximos-pasos" class="hash-link" aria-label="Enlace directo al Próximos Pasos" title="Enlace directo al Próximos Pasos">​</a></h2>
+<ol>
+<li><strong><a href="https://docs.gresst.com/docs/guides/getting-started">Configuración inicial</a></strong> - Aprende a configurar tu cuenta</li>
+<li><strong><a href="https://docs.gresst.com/docs/app-movil/intro">App Móvil</a></strong> - Descubre la aplicación de recolección</li>
+<li><strong><a href="https://docs.gresst.com/docs/web-gestores/intro">Plataforma Web Gestores</a></strong> - Explora el dashboard de gestión</li>
+<li><strong><a href="https://docs.gresst.com/docs/web-generadores/intro">Portal Generadores</a></strong> - Conoce el portal de servicios</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="soporte-y-ayuda">Soporte y Ayuda<a href="https://docs.gresst.com/blog/welcome#soporte-y-ayuda" class="hash-link" aria-label="Enlace directo al Soporte y Ayuda" title="Enlace directo al Soporte y Ayuda">​</a></h2>
+<ul>
+<li>📚 <strong><a href="https://docs.gresst.com/docs/help/centro-ayuda">Centro de Ayuda</a></strong> - Encuentra respuestas a preguntas frecuentes</li>
+<li>💬 <strong><a href="https://docs.gresst.com/docs/help/contacto">Contacto</a></strong> - Obtén soporte técnico personalizado</li>
+<li>🔧 <strong><a href="https://docs.gresst.com/docs/help/estado-sistema">Estado del Sistema</a></strong> - Monitorea el estado de la plataforma</li>
+</ul>
+<hr>
+<p>¿Listo para comenzar? Te recomendamos empezar con la <a href="https://docs.gresst.com/docs/guides/getting-started">guía de configuración inicial</a> para configurar tu cuenta y familiarizarte con la plataforma.</p>]]></content>
+        <author>
+            <name>Administrador</name>
+            <uri>https://waste-management-platform.com</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+        <category label="platform" term="platform"/>
+        <category label="waste-management" term="waste-management"/>
+    </entry>
+</feed>

@@ -1,0 +1,16 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" fill="#2E8555" rx="8"/>
+  
+  <!-- Waste Management Icon -->
+  <circle cx="30" cy="30" r="20" fill="white" opacity="0.9"/>
+  <path d="M20 25h20v10H20z" fill="#2E8555"/>
+  <path d="M22 27h16v6H22z" fill="white"/>
+  <circle cx="25" cy="30" r="1.5" fill="#2E8555"/>
+  <circle cx="30" cy="30" r="1.5" fill="#2E8555"/>
+  <circle cx="35" cy="30" r="1.5" fill="#2E8555"/>
+  
+  <!-- Text -->
+  <text x="60" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">Waste Management</text>
+  <text x="60" y="40" font-family="Arial, sans-serif" font-size="12" fill="white" opacity="0.8">Plataforma de Gestión de Residuos</text>
+</svg>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaste_management_platform_docs=self.webpackChunkwaste_management_platform_docs||[]).push([[416],{416:(e,a,s)=>{s.r(a)}}]);

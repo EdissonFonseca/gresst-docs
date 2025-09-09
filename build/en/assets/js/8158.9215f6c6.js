@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaste_management_platform_docs=self.webpackChunkwaste_management_platform_docs||[]).push([[8158],{8158:(a,e,s)=>{s.r(e),s.d(e,{DocSearchModal:()=>t.a1});var t=s(3219)}}]);

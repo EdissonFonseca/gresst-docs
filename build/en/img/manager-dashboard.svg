@@ -1,0 +1,40 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dashboard Background -->
+  <rect width="200" height="200" fill="#f8f9fa" rx="8"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="200" height="40" fill="#2E8555" rx="8"/>
+  <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Dashboard de Gestión</text>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="40" width="50" height="160" fill="#e9ecef"/>
+  <rect x="5" y="50" width="40" height="8" fill="#2E8555" rx="2"/>
+  <rect x="5" y="65" width="30" height="6" fill="#666" rx="1"/>
+  <rect x="5" y="80" width="35" height="6" fill="#666" rx="1"/>
+  <rect x="5" y="95" width="25" height="6" fill="#666" rx="1"/>
+  
+  <!-- Main Content -->
+  <rect x="60" y="50" width="130" height="30" fill="white" rx="4"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="12" fill="#333">Métricas Principales</text>
+  
+  <!-- Charts -->
+  <rect x="60" y="90" width="60" height="40" fill="white" rx="4"/>
+  <rect x="65" y="95" width="50" height="30" fill="#e8f5e8" rx="2"/>
+  <circle cx="75" cy="105" r="3" fill="#2E8555"/>
+  <circle cx="85" cy="110" r="3" fill="#2E8555"/>
+  <circle cx="95" cy="115" r="3" fill="#2E8555"/>
+  <path d="M75 105L85 110L95 115" stroke="#2E8555" stroke-width="2" fill="none"/>
+  
+  <rect x="130" y="90" width="60" height="40" fill="white" rx="4"/>
+  <rect x="135" y="95" width="50" height="30" fill="#e8f5e8" rx="2"/>
+  <rect x="140" y="100" width="8" height="20" fill="#2E8555"/>
+  <rect x="150" y="110" width="8" height="10" fill="#2E8555"/>
+  <rect x="160" y="105" width="8" height="15" fill="#2E8555"/>
+  
+  <!-- Data Table -->
+  <rect x="60" y="140" width="130" height="50" fill="white" rx="4"/>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="12" fill="#333">Operaciones Recientes</text>
+  <rect x="70" y="165" width="110" height="1" fill="#e9ecef"/>
+  <text x="70" y="180" font-family="Arial, sans-serif" font-size="10" fill="#666">Recolección #001 - Completada</text>
+  <text x="70" y="190" font-family="Arial, sans-serif" font-size="10" fill="#666">Recolección #002 - En Proceso</text>
+</svg>
