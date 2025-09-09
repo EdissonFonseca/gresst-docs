@@ -5,7 +5,7 @@
   "source": "@site/docs/api/autenticacion.md",
   "sourceDirName": "api",
   "slug": "/api/autenticacion",
-  "permalink": "/docs/api/autenticacion",
+  "permalink": "/en/docs/api/autenticacion",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/autenticacion.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "API y Integraciones",
-    "permalink": "/docs/api/intro"
+    "permalink": "/en/docs/api/intro"
   },
   "next": {
     "title": "Endpoints de la API",
-    "permalink": "/docs/api/endpoints"
+    "permalink": "/en/docs/api/endpoints"
   }
 }

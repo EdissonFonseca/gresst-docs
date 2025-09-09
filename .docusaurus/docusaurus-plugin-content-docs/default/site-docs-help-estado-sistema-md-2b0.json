@@ -5,7 +5,7 @@
   "source": "@site/docs/help/estado-sistema.md",
   "sourceDirName": "help",
   "slug": "/help/estado-sistema",
-  "permalink": "/docs/help/estado-sistema",
+  "permalink": "/en/docs/help/estado-sistema",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/help/estado-sistema.md",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Contacto",
-    "permalink": "/docs/help/contacto"
+    "permalink": "/en/docs/help/contacto"
   }
 }

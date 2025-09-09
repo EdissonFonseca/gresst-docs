@@ -5,7 +5,7 @@
   "source": "@site/docs/api/sdk.md",
   "sourceDirName": "api",
   "slug": "/api/sdk",
-  "permalink": "/docs/api/sdk",
+  "permalink": "/en/docs/api/sdk",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/sdk.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Webhooks",
-    "permalink": "/docs/api/webhooks"
+    "permalink": "/en/docs/api/webhooks"
   },
   "next": {
     "title": "Guía de Inicio Rápido",
-    "permalink": "/docs/guides/getting-started"
+    "permalink": "/en/docs/guides/getting-started"
   }
 }

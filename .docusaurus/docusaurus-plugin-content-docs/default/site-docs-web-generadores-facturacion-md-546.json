@@ -5,7 +5,7 @@
   "source": "@site/docs/web-generadores/facturacion.md",
   "sourceDirName": "web-generadores",
   "slug": "/web-generadores/facturacion",
-  "permalink": "/docs/web-generadores/facturacion",
+  "permalink": "/en/docs/web-generadores/facturacion",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/facturacion.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Seguimiento de Servicios",
-    "permalink": "/docs/web-generadores/seguimiento"
+    "permalink": "/en/docs/web-generadores/seguimiento"
   },
   "next": {
     "title": "API y Integraciones",
-    "permalink": "/docs/api/intro"
+    "permalink": "/en/docs/api/intro"
   }
 }

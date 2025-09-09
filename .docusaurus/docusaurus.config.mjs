@@ -8,7 +8,7 @@ export default {
   "tagline": "Solución integral para la gestión eficiente de residuos",
   "favicon": "img/favicon.ico",
   "url": "https://docs.gresst.com",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "organizationName": "EdissonFonseca",
   "projectName": "gresst-docs",
   "onBrokenLinks": "throw",

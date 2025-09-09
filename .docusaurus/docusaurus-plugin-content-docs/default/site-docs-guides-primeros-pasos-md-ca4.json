@@ -5,7 +5,7 @@
   "source": "@site/docs/guides/primeros-pasos.md",
   "sourceDirName": "guides",
   "slug": "/guides/primeros-pasos",
-  "permalink": "/docs/guides/primeros-pasos",
+  "permalink": "/en/docs/guides/primeros-pasos",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/guides/primeros-pasos.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Guía de Inicio Rápido",
-    "permalink": "/docs/guides/getting-started"
+    "permalink": "/en/docs/guides/getting-started"
   },
   "next": {
     "title": "Solución de Problemas",
-    "permalink": "/docs/guides/troubleshooting"
+    "permalink": "/en/docs/guides/troubleshooting"
   }
 }

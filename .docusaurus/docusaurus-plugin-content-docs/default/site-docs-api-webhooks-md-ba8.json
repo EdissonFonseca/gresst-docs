@@ -5,7 +5,7 @@
   "source": "@site/docs/api/webhooks.md",
   "sourceDirName": "api",
   "slug": "/api/webhooks",
-  "permalink": "/docs/api/webhooks",
+  "permalink": "/en/docs/api/webhooks",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/api/webhooks.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Endpoints de la API",
-    "permalink": "/docs/api/endpoints"
+    "permalink": "/en/docs/api/endpoints"
   },
   "next": {
     "title": "SDK",
-    "permalink": "/docs/api/sdk"
+    "permalink": "/en/docs/api/sdk"
   }
 }

@@ -1,11 +1,11 @@
 {
   "id": "intro",
   "title": "Introducción",
-  "description": "Bienvenido a la Plataforma de Gestión de Residuos, una solución integral diseñada para optimizar y digitalizar todo el proceso de gestión de residuos desde la generación hasta la disposición final.",
+  "description": "Bienvenido a la Plataforma de Gestión de Residuos Gresst, una solución integral diseñada para optimizar y digitalizar todo el proceso de gestión de residuos desde la generación hasta la disposición final.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/en/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/intro.md",
@@ -15,6 +15,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "App Móvil de Recolección",
-    "permalink": "/docs/app-movil/intro"
+    "permalink": "/en/docs/app-movil/intro"
   }
 }

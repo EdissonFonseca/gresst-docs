@@ -5,7 +5,7 @@
   "source": "@site/docs/web-generadores/intro.md",
   "sourceDirName": "web-generadores",
   "slug": "/web-generadores/intro",
-  "permalink": "/docs/web-generadores/intro",
+  "permalink": "/en/docs/web-generadores/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/waste-management/waste-management-platform-docs/tree/main/docs/web-generadores/intro.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Reportes y Análisis",
-    "permalink": "/docs/web-gestores/reportes"
+    "permalink": "/en/docs/web-gestores/reportes"
   },
   "next": {
     "title": "Solicitar Servicio",
-    "permalink": "/docs/web-generadores/solicitar-servicio"
+    "permalink": "/en/docs/web-generadores/solicitar-servicio"
   }
 }

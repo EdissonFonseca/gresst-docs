@@ -1,264 +1,221 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/en/blog-c88": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "36994c47"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/blog-544": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "22f9ffc3"
   },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/en/blog/archive-d28": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "c5fd9dbb"
   },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+  "/en/blog/authors-32d": {
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "81ec5f34"
   },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/en/blog/tags-fb7": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "5311454b"
   },
-  "/blog/tags/platform-815": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/platform-b35": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---blog-tags-platform-4-e-0-9b6"
+    "__props": "ab736ef7"
   },
-  "/blog/tags/waste-management-1d5": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/waste-management-16d": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---blog-tags-waste-management-210-94f"
+    "__props": "bbff7d33"
   },
-  "/blog/tags/welcome-622": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/en/blog/tags/welcome-b7e": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogdc-5-cee"
+        "content": "dc543a8b"
       }
     ],
-    "__props": "__props---blog-tags-welcome-436-c4b"
+    "__props": "cfd83469"
   },
-  "/blog/welcome-7eb": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/en/blog/welcome-597": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomeaf-7-728"
+    "sidebar": "814f3328",
+    "content": "af775ebe"
   },
-  "/search-5de": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+  "/en/search-5d6": {
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---searchc-14-0ea"
+      "plugin": "c141421f"
     }
   },
-  "/docs-b90": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/en/docs-6bd": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-9f9": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/en/docs-8f3": {
+    "__comp": "a7bd4aaa",
+    "__props": "0abf49b1"
   },
-  "/docs-73d": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/en/docs-f2a": {
+    "__comp": "a94703ab"
   },
-  "/docs/api/autenticacion-b7e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-autenticacion-548-a20"
+  "/en/docs/api/autenticacion-dc1": {
+    "__comp": "17896441",
+    "content": "54816c93"
   },
-  "/docs/api/endpoints-687": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-endpointsd-04-b8a"
+  "/en/docs/api/endpoints-3e4": {
+    "__comp": "17896441",
+    "content": "d04023df"
   },
-  "/docs/api/intro-352": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-intro-626-312"
+  "/en/docs/api/intro-626": {
+    "__comp": "17896441",
+    "content": "6262e02f"
   },
-  "/docs/api/sdk-0f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-sdkff-4-ec7"
+  "/en/docs/api/sdk-580": {
+    "__comp": "17896441",
+    "content": "ff4e0346"
   },
-  "/docs/api/webhooks-f42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-webhooksba-8-d86"
+  "/en/docs/api/webhooks-97d": {
+    "__comp": "17896441",
+    "content": "ba827b61"
   },
-  "/docs/app-movil/funcionalidades-f61": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-funcionalidadesf-76-a30"
+  "/en/docs/app-movil/funcionalidades-948": {
+    "__comp": "17896441",
+    "content": "f7660bee"
   },
-  "/docs/app-movil/instalacion-7e0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-instalacioncae-711"
+  "/en/docs/app-movil/instalacion-958": {
+    "__comp": "17896441",
+    "content": "cae4e1ce"
   },
-  "/docs/app-movil/intro-58c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-introbfd-777"
+  "/en/docs/app-movil/intro-9b9": {
+    "__comp": "17896441",
+    "content": "bfd662a2"
   },
-  "/docs/app-movil/recoleccion-950": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-recoleccion-018-61d"
+  "/en/docs/app-movil/recoleccion-7a1": {
+    "__comp": "17896441",
+    "content": "0184e347"
   },
-  "/docs/app-movil/tracking-422": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-app-movil-tracking-22-b-5d1"
+  "/en/docs/app-movil/tracking-3af": {
+    "__comp": "17896441",
+    "content": "22b2515c"
   },
-  "/docs/guides/faq-312": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-faq-965-052"
+  "/en/docs/guides/faq-2b9": {
+    "__comp": "17896441",
+    "content": "9654b5f5"
   },
-  "/docs/guides/getting-started-2d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-getting-startedc-9-e-20f"
+  "/en/docs/guides/getting-started-c3c": {
+    "__comp": "17896441",
+    "content": "c9ea0dcf"
   },
-  "/docs/guides/primeros-pasos-d1d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-primeros-pasosca-4-57b"
+  "/en/docs/guides/primeros-pasos-f00": {
+    "__comp": "17896441",
+    "content": "ca40ee2e"
   },
-  "/docs/guides/troubleshooting-69b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-guides-troubleshooting-03-b-dc6"
+  "/en/docs/guides/troubleshooting-568": {
+    "__comp": "17896441",
+    "content": "03be7dae"
   },
-  "/docs/help/centro-ayuda-195": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-centro-ayuda-693-a2d"
+  "/en/docs/help/centro-ayuda-5f6": {
+    "__comp": "17896441",
+    "content": "693eed4c"
   },
-  "/docs/help/contacto-640": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-contacto-454-779"
+  "/en/docs/help/contacto-491": {
+    "__comp": "17896441",
+    "content": "454bc7bf"
   },
-  "/docs/help/estado-sistema-09a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-help-estado-sistema-2-b-0-507"
+  "/en/docs/help/estado-sistema-b8b": {
+    "__comp": "17896441",
+    "content": "2b0e5942"
   },
-  "/docs/intro-61d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+  "/en/docs/intro-2d1": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/docs/web-generadores/facturacion-45c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-facturacion-546-1ba"
+  "/en/docs/web-generadores/facturacion-247": {
+    "__comp": "17896441",
+    "content": "54661b26"
   },
-  "/docs/web-generadores/intro-435": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-intro-9-f-0-b9d"
+  "/en/docs/web-generadores/intro-82a": {
+    "__comp": "17896441",
+    "content": "9f06aa8d"
   },
-  "/docs/web-generadores/seguimiento-ce9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-seguimiento-316-70e"
+  "/en/docs/web-generadores/seguimiento-8d7": {
+    "__comp": "17896441",
+    "content": "31672523"
   },
-  "/docs/web-generadores/solicitar-servicio-2ce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-generadores-solicitar-servicio-848-6e8"
+  "/en/docs/web-generadores/solicitar-servicio-51a": {
+    "__comp": "17896441",
+    "content": "848a75e2"
   },
-  "/docs/web-gestores/dashboard-984": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-dashboard-3-ec-bc9"
+  "/en/docs/web-gestores/dashboard-c68": {
+    "__comp": "17896441",
+    "content": "3ec329d5"
   },
-  "/docs/web-gestores/gestion-operaciones-bdb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-gestion-operacionesdd-6-e4e"
+  "/en/docs/web-gestores/gestion-operaciones-c7c": {
+    "__comp": "17896441",
+    "content": "dd6e332f"
   },
-  "/docs/web-gestores/intro-a0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-introac-9-908"
+  "/en/docs/web-gestores/intro-d96": {
+    "__comp": "17896441",
+    "content": "ac926b5c"
   },
-  "/docs/web-gestores/reportes-929": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-gestores-reportes-4-e-2-d22"
+  "/en/docs/web-gestores/reportes-e82": {
+    "__comp": "17896441",
+    "content": "4e2d4130"
   },
-  "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/en/-d3c": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
