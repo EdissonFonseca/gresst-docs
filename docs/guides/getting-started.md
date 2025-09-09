@@ -19,16 +19,19 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 - Flota de vehículos para recolección
 - Personal capacitado
 
+![Configuración de la cuenta](/img/operator-account.png)
+
 ## Configuración Inicial
 
 ### 1. Crear Cuenta
-1. Visita [https://waste-management-platform.com](https://waste-management-platform.com)
-2. Haz clic en "Registrarse"
-3. Selecciona tu tipo de cuenta:
-   - **Generador de Residuos** - Si necesitas servicios de recolección
-   - **Gestor de Residuos** - Si ofreces servicios de recolección
+1. Para Gestor -> Visita [https://gestor.gresst.com](https://gestor.gresst.com)
+2. Para Generador -> Visita [https://generador.gresst.com](https://generador.gresst.com)
+3. Haz clic en "Registrarse"
 4. Completa el formulario de registro
 5. Verifica tu email
+
+![Crear cuenta](/img/operator-register.png)
+
 
 ### 2. Configurar Perfil
 1. **Información básica**
@@ -42,6 +45,8 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
    - Zonas de operación
    - Horarios de trabajo
    - Capacidades de recolección
+
+![Servicios](/img/operator-services.png)
 
 3. **Configuración de notificaciones**
    - Email de notificaciones
