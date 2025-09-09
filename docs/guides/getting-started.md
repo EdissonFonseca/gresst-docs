@@ -11,7 +11,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 - Localización
 - Teléfono
 
-![Configuración de la cuenta](../../static/img/generator-account.png)
+![Configuración de la cuenta](/img/generator-account.png)
 
 ### Para Gestores de Residuos
 - Empresa certificada para manejo de residuos
@@ -19,7 +19,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 - Flota de vehículos para recolección
 - Personal capacitado
 
-![Configuración de la cuenta](../../static/img/operator-account.png)
+![Configuración de la cuenta](/img/operator-account.png)
 
 ## Configuración Inicial
 
@@ -30,7 +30,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 4. Completa el formulario de registro
 5. Verifica tu email
 
-![Crear cuenta](../../static/img/genarator-register.png)
+![Crear cuenta](/img/generator-register.png)
 
 
 ### 2. Configurar Perfil
@@ -46,7 +46,7 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
    - Horarios de trabajo
    - Capacidades de recolección
 
-![Servicios](../../static/img/operator-services.png)
+![Servicios](/img/operator-services.png)
 
 3. **Configuración de notificaciones**
    - Email de notificaciones

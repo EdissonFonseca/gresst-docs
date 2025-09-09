@@ -9,6 +9,9 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://docs.gresst.com",
   "baseUrl": "/en/",
+  "staticDirectories": [
+    "static"
+  ],
   "organizationName": "EdissonFonseca",
   "projectName": "gresst-docs",
   "onBrokenLinks": "throw",
@@ -441,9 +444,6 @@ export default {
   },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
-  "staticDirectories": [
-    "static"
-  ],
   "customFields": {},
   "plugins": [],
   "themes": [],

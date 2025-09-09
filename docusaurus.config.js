@@ -11,6 +11,9 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
+  // Static directories
+  staticDirectories: ['static'],
+
   // GitHub pages deployment config.
   organizationName: 'EdissonFonseca',
   projectName: 'gresst-docs',
