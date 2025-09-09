@@ -7,8 +7,11 @@ Esta guía te ayudará a configurar y comenzar a usar la Plataforma de Gestión 
 ### Para Generadores de Residuos
 - Empresa o institución que genera residuos
 - Información fiscal y de contacto
-- Dirección de recolección de residuos
-- Tipos de residuos que se generan
+- Dirección 
+- Localización
+- Teléfono
+
+![Configuración de la cuenta] (img/generator-account.png)
 
 ### Para Gestores de Residuos
 - Empresa certificada para manejo de residuos

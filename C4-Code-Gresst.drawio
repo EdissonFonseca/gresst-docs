@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:00:00.000Z" agent="5.0" etag="jkl012" version="22.1.16" type="device">
+  <diagram name="C4-Code-Gresst" id="c4-code">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Título -->
+        <mxCell id="title" value="Gresst - WasteService&#xa;Diagrama C4 - Código (Nivel 4)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="400" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteService Class -->
+        <mxCell id="waste-service" value="WasteService&#xa;&#xa;-wasteRepository: WasteRepository&#xa;-validationService: ValidationService&#xa;-logger: Logger&#xa;-cacheManager: CacheManager&#xa;&#xa;+createWaste(wasteData: WasteData): Promise~Waste~&#xa;+updateWaste(id: string, wasteData: WasteData): Promise~Waste~&#xa;+deleteWaste(id: string): Promise~boolean~&#xa;+getWasteById(id: string): Promise~Waste~&#xa;+getWastesByOrganization(orgId: string): Promise~Waste[]~&#xa;+searchWastes(criteria: SearchCriteria): Promise~Waste[]~&#xa;-validateWasteData(data: WasteData): ValidationResult&#xa;-logOperation(operation: string, data: any): void&#xa;-getFromCache(key: string): any&#xa;-setCache(key: string, value: any): void" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#2e7d32;strokeWidth=3;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="300" height="280" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteRepository Class -->
+        <mxCell id="waste-repository" value="WasteRepository&#xa;&#xa;-dbConnection: DatabaseConnection&#xa;&#xa;+save(waste: Waste): Promise~Waste~&#xa;+findById(id: string): Promise~Waste~&#xa;+findByOrganization(orgId: string): Promise~Waste[]~&#xa;+update(id: string, waste: Partial~Waste~): Promise~Waste~&#xa;+delete(id: string): Promise~boolean~&#xa;+search(criteria: SearchCriteria): Promise~Waste[]~&#xa;-buildQuery(criteria: SearchCriteria): string" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#f57c00;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="300" height="200" as="geometry" />
+        </mxCell>
+        
+        <!-- ValidationService Class -->
+        <mxCell id="validation-service" value="ValidationService&#xa;&#xa;+validateWasteData(data: WasteData): ValidationResult&#xa;+validateOrganizationId(orgId: string): boolean&#xa;+validateWasteType(type: string): boolean&#xa;+validateQuantity(quantity: number): boolean&#xa;-isValidEmail(email: string): boolean&#xa;-isValidPhone(phone: string): boolean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#2e7d32;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="100" width="300" height="160" as="geometry" />
+        </mxCell>
+        
+        <!-- Waste Class -->
+        <mxCell id="waste" value="Waste&#xa;&#xa;+id: string&#xa;+organizationId: string&#xa;+type: WasteType&#xa;+quantity: number&#xa;+unit: string&#xa;+description: string&#xa;+status: WasteStatus&#xa;+createdAt: Date&#xa;+updatedAt: Date&#xa;+location: Location&#xa;+metadata: WasteMetadata&#xa;&#xa;+calculateVolume(): number&#xa;+isHazardous(): boolean&#xa;+getDisposalRequirements(): DisposalRequirement[]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="300" height="200" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteData Class -->
+        <mxCell id="waste-data" value="WasteData&#xa;&#xa;+organizationId: string&#xa;+type: string&#xa;+quantity: number&#xa;+unit: string&#xa;+description: string&#xa;+location: LocationData&#xa;+metadata: object" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="300" height="120" as="geometry" />
+        </mxCell>
+        
+        <!-- ValidationResult Class -->
+        <mxCell id="validation-result" value="ValidationResult&#xa;&#xa;+isValid: boolean&#xa;+errors: ValidationError[]&#xa;&#xa;+addError(field: string, message: string): void&#xa;+hasErrors(): boolean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="450" width="300" height="120" as="geometry" />
+        </mxCell>
+        
+        <!-- SearchCriteria Class -->
+        <mxCell id="search-criteria" value="SearchCriteria&#xa;&#xa;+organizationId: string&#xa;+type: string&#xa;+status: string&#xa;+dateFrom: Date&#xa;+dateTo: Date&#xa;+location: LocationData&#xa;+limit: number&#xa;+offset: number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="300" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteType Enum -->
+        <mxCell id="waste-type" value="WasteType&#xa;&lt;&lt;enumeration&gt;&gt;&#xa;&#xa;ORGANIC&#xa;RECYCLABLE&#xa;HAZARDOUS&#xa;CONSTRUCTION&#xa;ELECTRONIC&#xa;MEDICAL&#xa;OTHER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="200" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteStatus Enum -->
+        <mxCell id="waste-status" value="WasteStatus&#xa;&lt;&lt;enumeration&gt;&gt;&#xa;&#xa;PENDING&#xa;SCHEDULED&#xa;IN_PROGRESS&#xa;COLLECTED&#xa;PROCESSED&#xa;DISPOSED&#xa;CANCELLED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="700" width="200" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- Location Class -->
+        <mxCell id="location" value="Location&#xa;&#xa;+latitude: number&#xa;+longitude: number&#xa;+address: string&#xa;+city: string&#xa;+state: string&#xa;+country: string&#xa;+postalCode: string&#xa;&#xa;+getDistanceTo(other: Location): number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="700" width="200" height="140" as="geometry" />
+        </mxCell>
+        
+        <!-- WasteMetadata Class -->
+        <mxCell id="waste-metadata" value="WasteMetadata&#xa;&#xa;+source: string&#xa;+collectionMethod: string&#xa;+disposalMethod: string&#xa;+environmentalImpact: number&#xa;+cost: number&#xa;+notes: string" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0277bd;strokeWidth=2;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="900" width="200" height="120" as="geometry" />
+        </mxCell>
+        
+        <!-- Conexiones -->
+        <mxCell id="conn1" value="uses" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#2e7d32;" edge="1" parent="1" source="waste-service" target="waste-repository">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="590" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn2" value="uses" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#2e7d32;" edge="1" parent="1" source="waste-service" target="validation-service">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="990" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn3" value="creates/updates" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste-service" target="waste">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn4" value="processes" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste-service" target="waste-data">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="240" as="sourcePoint" />
+            <mxPoint x="750" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn5" value="processes" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste-service" target="search-criteria">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn6" value="manages" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#f57c00;" edge="1" parent="1" source="waste-repository" target="waste">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn7" value="searches by" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#f57c00;" edge="1" parent="1" source="waste-repository" target="search-criteria">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn8" value="validates" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#2e7d32;" edge="1" parent="1" source="validation-service" target="waste-data">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="260" as="sourcePoint" />
+            <mxPoint x="900" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn9" value="returns" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#2e7d32;" edge="1" parent="1" source="validation-service" target="validation-result">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="260" as="sourcePoint" />
+            <mxPoint x="1150" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn10" value="has" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste" target="waste-type">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="550" as="sourcePoint" />
+            <mxPoint x="700" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn11" value="has" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste" target="waste-status">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="550" as="sourcePoint" />
+            <mxPoint x="850" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn12" value="has" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste" target="location">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="550" as="sourcePoint" />
+            <mxPoint x="1200" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn13" value="has" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste" target="waste-metadata">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="650" as="sourcePoint" />
+            <mxPoint x="300" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn14" value="contains" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste-data" target="location">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="510" as="sourcePoint" />
+            <mxPoint x="1200" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="conn15" value="specifies" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#0277bd;" edge="1" parent="1" source="waste-data" target="waste-type">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="510" as="sourcePoint" />
+            <mxPoint x="700" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Leyenda -->
+        <mxCell id="leyenda" value="Leyenda:&#xa;🔧 Service Layer&#xa;🗄️ Repository Layer&#xa;📊 Domain Models&#xa;🔍 Enumerations&#xa;🔗 Relationships" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1000" width="200" height="100" as="geometry" />
+        </mxCell>
+        
+        <!-- Notas adicionales -->
+        <mxCell id="notes" value="Notas:&#xa;• WasteService es el componente principal&#xa;• Sigue el patrón Repository para acceso a datos&#xa;• ValidationService centraliza las validaciones&#xa;• Waste es la entidad del dominio principal&#xa;• WasteData es el DTO para transferencia&#xa;• Enumeraciones definen tipos y estados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9c4;strokeColor=#f57f17;strokeWidth=1;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1100" width="300" height="120" as="geometry" />
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
+
