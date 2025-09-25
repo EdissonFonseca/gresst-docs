@@ -2,9 +2,6 @@
 _book/
 *.log
 
-# Node modules (si usas plugins de GitBook)
-node_modules/
-
 # OS generated files
 .DS_Store
 .DS_Store?
